@@ -1,0 +1,1246 @@
+order_id,date,product,category,region,units,revenue
+ORD-10001,2025-01-01,Smart Watch,Electronics,North America,1,197.45
+ORD-10002,2025-01-01,Ceramic Mug Set,Home & Kitchen,North America,1,31.26
+ORD-10003,2025-01-02,Camping Hammock,Outdoors,North America,2,108.5
+ORD-10004,2025-01-02,Bluetooth Speaker,Electronics,Asia Pacific,1,78.54
+ORD-10005,2025-01-03,Bluetooth Speaker,Electronics,North America,1,77.48
+ORD-10006,2025-01-03,Linen Throw Blanket,Home & Kitchen,Asia Pacific,2,128.19
+ORD-10007,2025-01-04,Cookbook: Weeknight Meals,Books,North America,1,27.69
+ORD-10008,2025-01-04,Running Socks (3-pack),Apparel,Europe,2,34.97
+ORD-10009,2025-01-05,Smart Watch,Electronics,Asia Pacific,1,195.74
+ORD-10010,2025-01-05,Merino Hoodie,Apparel,North America,1,92.91
+ORD-10011,2025-01-05,Data Science Handbook,Books,Europe,1,38.68
+ORD-10012,2025-01-06,USB-C Charger,Electronics,North America,4,95.1
+ORD-10013,2025-01-06,Bluetooth Speaker,Electronics,Asia Pacific,2,154.35
+ORD-10014,2025-01-06,Bluetooth Speaker,Electronics,Europe,1,78.79
+ORD-10015,2025-01-07,USB-C Charger,Electronics,Europe,4,94.44
+ORD-10016,2025-01-08,Smart Watch,Electronics,Asia Pacific,1,197.49
+ORD-10017,2025-01-09,Chef's Knife,Home & Kitchen,Europe,1,86.46
+ORD-10018,2025-01-10,Smart Watch,Electronics,Asia Pacific,1,193.41
+ORD-10019,2025-01-10,Ceramic Mug Set,Home & Kitchen,Europe,5,159.33
+ORD-10020,2025-01-10,Wireless Earbuds,Electronics,Asia Pacific,1,57.7
+ORD-10021,2025-01-11,Ceramic Mug Set,Home & Kitchen,North America,2,63.46
+ORD-10022,2025-01-11,Data Science Handbook,Books,Europe,1,38.56
+ORD-10023,2025-01-12,Rain Jacket,Apparel,Europe,1,139.0
+ORD-10024,2025-01-12,Pour-Over Coffee Set,Home & Kitchen,Europe,1,43.8
+ORD-10025,2025-01-13,Merino Hoodie,Apparel,North America,3,284.55
+ORD-10026,2025-01-14,USB-C Charger,Electronics,Asia Pacific,5,118.32
+ORD-10027,2025-01-14,USB-C Charger,Electronics,Latin America,1,23.66
+ORD-10028,2025-01-14,Trail Backpack,Outdoors,Latin America,2,237.77
+ORD-10029,2025-01-14,Insulated Water Bottle,Outdoors,Latin America,2,57.02
+ORD-10030,2025-01-14,Pour-Over Coffee Set,Home & Kitchen,North America,1,43.68
+ORD-10031,2025-01-15,Wireless Earbuds,Electronics,North America,4,235.01
+ORD-10032,2025-01-16,Smart Watch,Electronics,North America,1,196.25
+ORD-10033,2025-01-16,Camping Hammock,Outdoors,Europe,1,54.13
+ORD-10034,2025-01-17,Insulated Water Bottle,Outdoors,Europe,1,28.76
+ORD-10035,2025-01-17,Camping Hammock,Outdoors,North America,1,53.91
+ORD-10036,2025-01-18,Merino Hoodie,Apparel,North America,1,92.55
+ORD-10037,2025-01-18,USB-C Charger,Electronics,North America,4,94.4
+ORD-10038,2025-01-18,Rain Jacket,Apparel,North America,2,276.14
+ORD-10039,2025-01-19,Merino Hoodie,Apparel,North America,1,92.76
+ORD-10040,2025-01-19,Pour-Over Coffee Set,Home & Kitchen,North America,1,44.18
+ORD-10041,2025-01-19,Cookbook: Weeknight Meals,Books,North America,2,55.55
+ORD-10042,2025-01-20,Rain Jacket,Apparel,Asia Pacific,1,137.05
+ORD-10043,2025-01-20,Data Science Handbook,Books,Asia Pacific,1,38.51
+ORD-10044,2025-01-21,Wireless Earbuds,Electronics,Asia Pacific,1,57.35
+ORD-10045,2025-01-22,Running Socks (3-pack),Apparel,North America,3,52.78
+ORD-10046,2025-01-22,Camping Hammock,Outdoors,North America,2,108.57
+ORD-10047,2025-01-23,Insulated Water Bottle,Outdoors,North America,1,28.71
+ORD-10048,2025-01-23,Bluetooth Speaker,Electronics,Latin America,4,306.61
+ORD-10049,2025-01-24,Camping Hammock,Outdoors,Latin America,1,53.7
+ORD-10050,2025-01-24,Bluetooth Speaker,Electronics,Asia Pacific,3,232.52
+ORD-10051,2025-01-24,Bluetooth Speaker,Electronics,Europe,5,390.9
+ORD-10052,2025-01-25,Wireless Earbuds,Electronics,Latin America,1,57.43
+ORD-10053,2025-01-25,Smart Watch,Electronics,North America,2,394.63
+ORD-10054,2025-01-25,Bluetooth Speaker,Electronics,Europe,1,78.78
+ORD-10055,2025-01-25,USB-C Charger,Electronics,Asia Pacific,1,23.52
+ORD-10056,2025-01-25,Bluetooth Speaker,Electronics,North America,1,78.3
+ORD-10057,2025-01-26,Trail Backpack,Outdoors,North America,3,358.96
+ORD-10058,2025-01-26,Linen Throw Blanket,Home & Kitchen,Europe,1,63.3
+ORD-10059,2025-01-26,Pour-Over Coffee Set,Home & Kitchen,Asia Pacific,1,43.99
+ORD-10060,2025-01-27,Running Socks (3-pack),Apparel,Latin America,2,35.92
+ORD-10061,2025-01-27,Smart Watch,Electronics,Latin America,3,594.88
+ORD-10062,2025-01-27,Bluetooth Speaker,Electronics,Asia Pacific,1,78.22
+ORD-10063,2025-01-27,Merino Hoodie,Apparel,North America,2,184.92
+ORD-10064,2025-01-28,Running Socks (3-pack),Apparel,North America,3,53.13
+ORD-10065,2025-01-28,Chef's Knife,Home & Kitchen,North America,2,174.79
+ORD-10066,2025-01-28,Wireless Earbuds,Electronics,Latin America,1,58.37
+ORD-10067,2025-01-29,Pour-Over Coffee Set,Home & Kitchen,North America,5,219.46
+ORD-10068,2025-01-30,Cookbook: Weeknight Meals,Books,North America,2,54.9
+ORD-10069,2025-01-30,Running Socks (3-pack),Apparel,Europe,1,17.67
+ORD-10070,2025-01-30,Insulated Water Bottle,Outdoors,North America,1,28.58
+ORD-10071,2025-01-30,Rain Jacket,Apparel,Asia Pacific,2,277.23
+ORD-10072,2025-01-31,Insulated Water Bottle,Outdoors,Europe,2,56.48
+ORD-10073,2025-01-31,Cookbook: Weeknight Meals,Books,Europe,1,27.75
+ORD-10074,2025-02-01,Trail Backpack,Outdoors,Europe,4,475.35
+ORD-10075,2025-02-01,Cookbook: Weeknight Meals,Books,Europe,3,82.25
+ORD-10076,2025-02-01,Bluetooth Speaker,Electronics,Europe,1,77.14
+ORD-10077,2025-02-02,Merino Hoodie,Apparel,Europe,1,94.04
+ORD-10078,2025-02-03,Trail Backpack,Outdoors,Asia Pacific,2,237.64
+ORD-10079,2025-02-03,Smart Watch,Electronics,North America,1,198.9
+ORD-10080,2025-02-04,Chef's Knife,Home & Kitchen,Asia Pacific,1,87.4
+ORD-10081,2025-02-05,Wireless Earbuds,Electronics,Asia Pacific,3,176.39
+ORD-10082,2025-02-06,Rain Jacket,Apparel,Europe,1,136.85
+ORD-10083,2025-02-06,Running Socks (3-pack),Apparel,North America,1,17.75
+ORD-10084,2025-02-07,Insulated Water Bottle,Outdoors,Latin America,3,85.99
+ORD-10085,2025-02-08,Rain Jacket,Apparel,Europe,1,139.42
+ORD-10086,2025-02-08,Chef's Knife,Home & Kitchen,Asia Pacific,1,88.41
+ORD-10087,2025-02-09,Chef's Knife,Home & Kitchen,North America,1,87.09
+ORD-10088,2025-02-10,Chef's Knife,Home & Kitchen,North America,1,86.74
+ORD-10089,2025-02-10,USB-C Charger,Electronics,Europe,1,23.58
+ORD-10090,2025-02-11,USB-C Charger,Electronics,Europe,2,47.92
+ORD-10091,2025-02-11,USB-C Charger,Electronics,Europe,4,93.98
+ORD-10092,2025-02-11,Ceramic Mug Set,Home & Kitchen,Europe,2,63.62
+ORD-10093,2025-02-12,USB-C Charger,Electronics,North America,1,23.77
+ORD-10094,2025-02-12,Chef's Knife,Home & Kitchen,Asia Pacific,4,355.79
+ORD-10095,2025-02-12,Ceramic Mug Set,Home & Kitchen,Europe,2,62.24
+ORD-10096,2025-02-13,Ceramic Mug Set,Home & Kitchen,North America,1,31.35
+ORD-10097,2025-02-14,Running Socks (3-pack),Apparel,Asia Pacific,3,52.79
+ORD-10098,2025-02-15,Wireless Earbuds,Electronics,Asia Pacific,1,58.91
+ORD-10099,2025-02-15,Wireless Earbuds,Electronics,Asia Pacific,2,117.13
+ORD-10100,2025-02-15,Data Science Handbook,Books,Asia Pacific,2,76.22
+ORD-10101,2025-02-16,Cookbook: Weeknight Meals,Books,Asia Pacific,2,54.6
+ORD-10102,2025-02-16,Camping Hammock,Outdoors,Asia Pacific,2,107.24
+ORD-10103,2025-02-17,Pour-Over Coffee Set,Home & Kitchen,Latin America,2,89.75
+ORD-10104,2025-02-17,Chef's Knife,Home & Kitchen,North America,2,176.01
+ORD-10105,2025-02-18,Rain Jacket,Apparel,Asia Pacific,2,276.35
+ORD-10106,2025-02-18,USB-C Charger,Electronics,Europe,1,23.75
+ORD-10107,2025-02-18,USB-C Charger,Electronics,Asia Pacific,1,23.97
+ORD-10108,2025-02-18,Insulated Water Bottle,Outdoors,Asia Pacific,1,28.77
+ORD-10109,2025-02-19,Cookbook: Weeknight Meals,Books,Europe,4,111.24
+ORD-10110,2025-02-19,Linen Throw Blanket,Home & Kitchen,North America,1,64.87
+ORD-10111,2025-02-19,USB-C Charger,Electronics,North America,1,23.72
+ORD-10112,2025-02-20,Merino Hoodie,Apparel,Europe,1,92.89
+ORD-10113,2025-02-20,Bluetooth Speaker,Electronics,Europe,1,77.08
+ORD-10114,2025-02-21,USB-C Charger,Electronics,Europe,2,47.55
+ORD-10115,2025-02-21,Insulated Water Bottle,Outdoors,Europe,1,28.39
+ORD-10116,2025-02-22,Insulated Water Bottle,Outdoors,Europe,1,28.5
+ORD-10117,2025-02-22,Running Socks (3-pack),Apparel,North America,1,17.63
+ORD-10118,2025-02-23,Smart Watch,Electronics,North America,2,397.41
+ORD-10119,2025-02-23,Trail Backpack,Outdoors,North America,1,119.01
+ORD-10120,2025-02-23,Cookbook: Weeknight Meals,Books,Latin America,3,82.23
+ORD-10121,2025-02-24,Trail Backpack,Outdoors,North America,5,591.96
+ORD-10122,2025-02-25,Trail Backpack,Outdoors,Europe,2,233.54
+ORD-10123,2025-02-25,Bluetooth Speaker,Electronics,Europe,1,77.07
+ORD-10124,2025-02-25,USB-C Charger,Electronics,North America,1,23.63
+ORD-10125,2025-02-26,Bluetooth Speaker,Electronics,North America,1,77.95
+ORD-10126,2025-02-27,Chef's Knife,Home & Kitchen,Asia Pacific,1,88.76
+ORD-10127,2025-02-28,Pour-Over Coffee Set,Home & Kitchen,Europe,2,89.86
+ORD-10128,2025-03-01,Smart Watch,Electronics,North America,1,194.46
+ORD-10129,2025-03-01,Trail Backpack,Outdoors,North America,1,118.54
+ORD-10130,2025-03-01,Smart Watch,Electronics,North America,1,198.16
+ORD-10131,2025-03-01,Smart Watch,Electronics,Latin America,2,393.52
+ORD-10132,2025-03-01,Trail Backpack,Outdoors,Europe,1,118.73
+ORD-10133,2025-03-02,Smart Watch,Electronics,Asia Pacific,2,395.9
+ORD-10134,2025-03-02,Cookbook: Weeknight Meals,Books,North America,2,55.5
+ORD-10135,2025-03-02,Cookbook: Weeknight Meals,Books,Europe,2,55.81
+ORD-10136,2025-03-02,Rain Jacket,Apparel,North America,1,139.84
+ORD-10137,2025-03-02,Rain Jacket,Apparel,Europe,1,139.01
+ORD-10138,2025-03-03,Rain Jacket,Apparel,North America,2,275.55
+ORD-10139,2025-03-04,USB-C Charger,Electronics,Europe,1,23.35
+ORD-10140,2025-03-05,Linen Throw Blanket,Home & Kitchen,North America,1,63.36
+ORD-10141,2025-03-06,Insulated Water Bottle,Outdoors,Asia Pacific,2,57.05
+ORD-10142,2025-03-07,Linen Throw Blanket,Home & Kitchen,North America,2,129.47
+ORD-10143,2025-03-07,Merino Hoodie,Apparel,Europe,1,93.33
+ORD-10144,2025-03-07,Bluetooth Speaker,Electronics,Europe,1,77.68
+ORD-10145,2025-03-08,Bluetooth Speaker,Electronics,Europe,2,153.84
+ORD-10146,2025-03-08,Data Science Handbook,Books,Asia Pacific,1,37.85
+ORD-10147,2025-03-08,Chef's Knife,Home & Kitchen,Latin America,4,350.25
+ORD-10148,2025-03-08,Smart Watch,Electronics,Europe,2,392.14
+ORD-10149,2025-03-09,USB-C Charger,Electronics,Latin America,1,23.68
+ORD-10150,2025-03-09,Chef's Knife,Home & Kitchen,Asia Pacific,1,88.44
+ORD-10151,2025-03-09,Linen Throw Blanket,Home & Kitchen,Asia Pacific,1,63.63
+ORD-10152,2025-03-10,Chef's Knife,Home & Kitchen,Europe,1,87.22
+ORD-10153,2025-03-11,Running Socks (3-pack),Apparel,Europe,1,17.56
+ORD-10154,2025-03-12,USB-C Charger,Electronics,North America,2,47.58
+ORD-10155,2025-03-12,Running Socks (3-pack),Apparel,Latin America,2,35.62
+ORD-10156,2025-03-13,Wireless Earbuds,Electronics,North America,5,289.09
+ORD-10157,2025-03-14,USB-C Charger,Electronics,North America,1,23.91
+ORD-10158,2025-03-14,Data Science Handbook,Books,Europe,5,191.13
+ORD-10159,2025-03-14,Camping Hammock,Outdoors,North America,1,54.46
+ORD-10160,2025-03-14,Linen Throw Blanket,Home & Kitchen,Europe,3,192.0
+ORD-10161,2025-03-14,Smart Watch,Electronics,Europe,40,7164.0
+ORD-10162,2025-03-15,Pour-Over Coffee Set,Home & Kitchen,North America,2,88.08
+ORD-10163,2025-03-15,Wireless Earbuds,Electronics,Europe,1,58.35
+ORD-10164,2025-03-15,Running Socks (3-pack),Apparel,North America,1,17.48
+ORD-10165,2025-03-15,Pour-Over Coffee Set,Home & Kitchen,North America,1,43.85
+ORD-10166,2025-03-16,Merino Hoodie,Apparel,North America,2,186.48
+ORD-10167,2025-03-16,Insulated Water Bottle,Outdoors,Latin America,1,28.53
+ORD-10168,2025-03-17,Bluetooth Speaker,Electronics,Europe,3,233.2
+ORD-10169,2025-03-17,Smart Watch,Electronics,North America,4,795.71
+ORD-10170,2025-03-18,Insulated Water Bottle,Outdoors,Asia Pacific,1,28.46
+ORD-10171,2025-03-19,Chef's Knife,Home & Kitchen,Europe,1,87.12
+ORD-10172,2025-03-19,Trail Backpack,Outdoors,Latin America,2,234.78
+ORD-10173,2025-03-19,Camping Hammock,Outdoors,Asia Pacific,5,274.26
+ORD-10174,2025-03-19,Running Socks (3-pack),Apparel,Asia Pacific,1,17.89
+ORD-10175,2025-03-19,Smart Watch,Electronics,Europe,2,394.67
+ORD-10176,2025-03-20,Camping Hammock,Outdoors,Europe,1,54.08
+ORD-10177,2025-03-21,Camping Hammock,Outdoors,North America,4,215.56
+ORD-10178,2025-03-22,Running Socks (3-pack),Apparel,Europe,4,71.63
+ORD-10179,2025-03-22,USB-C Charger,Electronics,Latin America,1,23.91
+ORD-10180,2025-03-23,Running Socks (3-pack),Apparel,Latin America,1,17.98
+ORD-10181,2025-03-23,Rain Jacket,Apparel,Europe,1,139.35
+ORD-10182,2025-03-23,Trail Backpack,Outdoors,Asia Pacific,1,118.33
+ORD-10183,2025-03-23,Linen Throw Blanket,Home & Kitchen,Europe,3,194.65
+ORD-10184,2025-03-24,Bluetooth Speaker,Electronics,Latin America,1,76.78
+ORD-10185,2025-03-24,Rain Jacket,Apparel,North America,1,136.39
+ORD-10186,2025-03-24,Cookbook: Weeknight Meals,Books,Latin America,1,27.36
+ORD-10187,2025-03-25,Ceramic Mug Set,Home & Kitchen,Europe,2,63.51
+ORD-10188,2025-03-25,Cookbook: Weeknight Meals,Books,Europe,2,55.81
+ORD-10189,2025-03-25,Insulated Water Bottle,Outdoors,Europe,4,113.49
+ORD-10190,2025-03-26,Chef's Knife,Home & Kitchen,Asia Pacific,1,88.16
+ORD-10191,2025-03-26,Linen Throw Blanket,Home & Kitchen,North America,1,64.94
+ORD-10192,2025-03-27,Cookbook: Weeknight Meals,Books,North America,1,27.7
+ORD-10193,2025-03-27,Data Science Handbook,Books,Asia Pacific,1,37.98
+ORD-10194,2025-03-28,Merino Hoodie,Apparel,Europe,3,278.44
+ORD-10195,2025-03-28,Rain Jacket,Apparel,North America,3,409.22
+ORD-10196,2025-03-29,Bluetooth Speaker,Electronics,Asia Pacific,1,78.68
+ORD-10197,2025-03-29,Bluetooth Speaker,Electronics,Asia Pacific,1,77.4
+ORD-10198,2025-03-29,Wireless Earbuds,Electronics,North America,1,57.43
+ORD-10199,2025-03-30,Pour-Over Coffee Set,Home & Kitchen,Europe,1,44.48
+ORD-10200,2025-03-30,Camping Hammock,Outdoors,Europe,1,54.94
+ORD-10201,2025-03-30,USB-C Charger,Electronics,Asia Pacific,1,23.36
+ORD-10202,2025-03-30,Insulated Water Bottle,Outdoors,North America,1,28.66
+ORD-10203,2025-03-31,Bluetooth Speaker,Electronics,Europe,2,156.64
+ORD-10204,2025-03-31,Linen Throw Blanket,Home & Kitchen,Europe,2,126.49
+ORD-10205,2025-03-31,Camping Hammock,Outdoors,Europe,2,109.08
+ORD-10206,2025-04-01,Bluetooth Speaker,Electronics,Asia Pacific,1,78.36
+ORD-10207,2025-04-01,Linen Throw Blanket,Home & Kitchen,Europe,1,63.35
+ORD-10208,2025-04-01,Data Science Handbook,Books,North America,1,38.34
+ORD-10209,2025-04-02,Running Socks (3-pack),Apparel,Asia Pacific,2,35.55
+ORD-10210,2025-04-02,Insulated Water Bottle,Outdoors,Europe,1,28.89
+ORD-10211,2025-04-02,Cookbook: Weeknight Meals,Books,Asia Pacific,2,55.95
+ORD-10212,2025-04-02,Insulated Water Bottle,Outdoors,North America,1,28.26
+ORD-10213,2025-04-03,Linen Throw Blanket,Home & Kitchen,North America,1,63.49
+ORD-10214,2025-04-04,Pour-Over Coffee Set,Home & Kitchen,Europe,2,89.17
+ORD-10215,2025-04-04,Bluetooth Speaker,Electronics,Asia Pacific,1,77.44
+ORD-10216,2025-04-04,Smart Watch,Electronics,Europe,1,193.88
+ORD-10217,2025-04-05,Merino Hoodie,Apparel,North America,1,92.6
+ORD-10218,2025-04-05,Linen Throw Blanket,Home & Kitchen,Asia Pacific,2,126.43
+ORD-10219,2025-04-05,Smart Watch,Electronics,Asia Pacific,1,193.52
+ORD-10220,2025-04-06,Ceramic Mug Set,Home & Kitchen,Europe,1,31.3
+ORD-10221,2025-04-06,Merino Hoodie,Apparel,North America,1,94.08
+ORD-10222,2025-04-06,Camping Hammock,Outdoors,Europe,1,54.0
+ORD-10223,2025-04-07,Chef's Knife,Home & Kitchen,Asia Pacific,2,174.21
+ORD-10224,2025-04-07,USB-C Charger,Electronics,Asia Pacific,1,23.55
+ORD-10225,2025-04-08,Camping Hammock,Outdoors,Europe,2,107.87
+ORD-10226,2025-04-08,Pour-Over Coffee Set,Home & Kitchen,Europe,1,43.76
+ORD-10227,2025-04-09,Ceramic Mug Set,Home & Kitchen,North America,1,31.97
+ORD-10228,2025-04-09,USB-C Charger,Electronics,Asia Pacific,4,93.37
+ORD-10229,2025-04-10,Merino Hoodie,Apparel,Europe,1,92.37
+ORD-10230,2025-04-10,Rain Jacket,Apparel,North America,1,136.51
+ORD-10231,2025-04-10,Pour-Over Coffee Set,Home & Kitchen,Europe,1,44.7
+ORD-10232,2025-04-10,Chef's Knife,Home & Kitchen,North America,1,86.86
+ORD-10233,2025-04-11,Trail Backpack,Outdoors,Latin America,2,236.14
+ORD-10234,2025-04-12,Camping Hammock,Outdoors,Europe,4,217.13
+ORD-10235,2025-04-12,Camping Hammock,Outdoors,North America,5,269.36
+ORD-10236,2025-04-13,Insulated Water Bottle,Outdoors,Europe,1,28.19
+ORD-10237,2025-04-13,Pour-Over Coffee Set,Home & Kitchen,North America,3,131.26
+ORD-10238,2025-04-14,Merino Hoodie,Apparel,Europe,1,93.47
+ORD-10239,2025-04-14,Camping Hammock,Outdoors,Asia Pacific,1,54.69
+ORD-10240,2025-04-14,Insulated Water Bottle,Outdoors,Europe,1,28.96
+ORD-10241,2025-04-15,Rain Jacket,Apparel,North America,2,271.93
+ORD-10242,2025-04-16,Insulated Water Bottle,Outdoors,Europe,2,56.89
+ORD-10243,2025-04-16,Cookbook: Weeknight Meals,Books,Europe,1,27.66
+ORD-10244,2025-04-16,Rain Jacket,Apparel,North America,1,138.14
+ORD-10245,2025-04-17,Rain Jacket,Apparel,Asia Pacific,1,138.25
+ORD-10246,2025-04-17,Bluetooth Speaker,Electronics,North America,2,156.4
+ORD-10247,2025-04-18,Wireless Earbuds,Electronics,North America,1,58.63
+ORD-10248,2025-04-18,Rain Jacket,Apparel,Asia Pacific,4,559.95
+ORD-10249,2025-04-18,Data Science Handbook,Books,Europe,1,38.25
+ORD-10250,2025-04-19,USB-C Charger,Electronics,North America,5,116.96
+ORD-10251,2025-04-19,Wireless Earbuds,Electronics,Europe,1,58.54
+ORD-10252,2025-04-19,Linen Throw Blanket,Home & Kitchen,Asia Pacific,2,128.43
+ORD-10253,2025-04-20,Smart Watch,Electronics,Asia Pacific,2,395.72
+ORD-10254,2025-04-20,USB-C Charger,Electronics,North America,1,23.8
+ORD-10255,2025-04-20,Cookbook: Weeknight Meals,Books,Asia Pacific,2,54.71
+ORD-10256,2025-04-20,USB-C Charger,Electronics,Latin America,1,23.77
+ORD-10257,2025-04-21,Running Socks (3-pack),Apparel,Europe,1,17.55
+ORD-10258,2025-04-22,Smart Watch,Electronics,Asia Pacific,1,195.9
+ORD-10259,2025-04-22,Pour-Over Coffee Set,Home & Kitchen,Asia Pacific,1,43.82
+ORD-10260,2025-04-23,Chef's Knife,Home & Kitchen,Asia Pacific,1,88.76
+ORD-10261,2025-04-23,Running Socks (3-pack),Apparel,Latin America,1,17.67
+ORD-10262,2025-04-23,Ceramic Mug Set,Home & Kitchen,Latin America,1,31.07
+ORD-10263,2025-04-24,Cookbook: Weeknight Meals,Books,Asia Pacific,1,27.4
+ORD-10264,2025-04-24,Rain Jacket,Apparel,Asia Pacific,2,275.54
+ORD-10265,2025-04-24,Trail Backpack,Outdoors,North America,1,116.94
+ORD-10266,2025-04-25,Linen Throw Blanket,Home & Kitchen,North America,1,63.51
+ORD-10267,2025-04-25,Camping Hammock,Outdoors,Europe,1,54.84
+ORD-10268,2025-04-25,Trail Backpack,Outdoors,Europe,2,237.97
+ORD-10269,2025-04-25,Wireless Earbuds,Electronics,Europe,1,57.97
+ORD-10270,2025-04-26,Trail Backpack,Outdoors,Europe,1,119.83
+ORD-10271,2025-04-26,Pour-Over Coffee Set,Home & Kitchen,Europe,1,44.51
+ORD-10272,2025-04-26,Cookbook: Weeknight Meals,Books,Asia Pacific,1,27.22
+ORD-10273,2025-04-27,Bluetooth Speaker,Electronics,North America,1,77.43
+ORD-10274,2025-04-27,Camping Hammock,Outdoors,Europe,2,108.78
+ORD-10275,2025-04-27,Merino Hoodie,Apparel,Asia Pacific,4,369.02
+ORD-10276,2025-04-28,Smart Watch,Electronics,Asia Pacific,1,194.88
+ORD-10277,2025-04-28,Ceramic Mug Set,Home & Kitchen,North America,2,62.45
+ORD-10278,2025-04-28,Pour-Over Coffee Set,Home & Kitchen,Asia Pacific,1,43.82
+ORD-10279,2025-04-28,Ceramic Mug Set,Home & Kitchen,Asia Pacific,3,94.23
+ORD-10280,2025-04-29,Linen Throw Blanket,Home & Kitchen,Asia Pacific,2,126.41
+ORD-10281,2025-04-29,Trail Backpack,Outdoors,Europe,1,116.69
+ORD-10282,2025-04-29,Insulated Water Bottle,Outdoors,Europe,2,56.55
+ORD-10283,2025-04-29,Ceramic Mug Set,Home & Kitchen,North America,3,94.14
+ORD-10284,2025-04-30,Cookbook: Weeknight Meals,Books,Europe,2,54.42
+ORD-10285,2025-04-30,Insulated Water Bottle,Outdoors,North America,3,86.16
+ORD-10286,2025-05-01,Trail Backpack,Outdoors,North America,1,118.72
+ORD-10287,2025-05-01,Pour-Over Coffee Set,Home & Kitchen,Europe,2,89.86
+ORD-10288,2025-05-01,Pour-Over Coffee Set,Home & Kitchen,Europe,1,44.19
+ORD-10289,2025-05-02,Trail Backpack,Outdoors,North America,1,118.26
+ORD-10290,2025-05-02,Data Science Handbook,Books,North America,1,38.35
+ORD-10291,2025-05-02,Cookbook: Weeknight Meals,Books,Asia Pacific,5,136.64
+ORD-10292,2025-05-03,USB-C Charger,Electronics,Latin America,3,71.93
+ORD-10293,2025-05-03,Cookbook: Weeknight Meals,Books,Asia Pacific,1,27.4
+ORD-10294,2025-05-03,Smart Watch,Electronics,Asia Pacific,4,787.35
+ORD-10295,2025-05-03,Rain Jacket,Apparel,North America,5,695.63
+ORD-10296,2025-05-04,USB-C Charger,Electronics,North America,2,47.09
+ORD-10297,2025-05-04,Rain Jacket,Apparel,North America,3,408.23
+ORD-10298,2025-05-04,Ceramic Mug Set,Home & Kitchen,Europe,2,63.66
+ORD-10299,2025-05-04,Bluetooth Speaker,Electronics,Europe,1,78.24
+ORD-10300,2025-05-05,Rain Jacket,Apparel,Europe,2,272.68
+ORD-10301,2025-05-06,Pour-Over Coffee Set,Home & Kitchen,Asia Pacific,1,44.06
+ORD-10302,2025-05-06,Smart Watch,Electronics,North America,4,793.49
+ORD-10303,2025-05-06,Running Socks (3-pack),Apparel,North America,4,70.43
+ORD-10304,2025-05-06,Trail Backpack,Outdoors,Europe,1,119.79
+ORD-10305,2025-05-06,Bluetooth Speaker,Electronics,Asia Pacific,2,157.17
+ORD-10306,2025-05-07,Camping Hammock,Outdoors,North America,2,108.74
+ORD-10307,2025-05-07,Bluetooth Speaker,Electronics,Europe,1,77.21
+ORD-10308,2025-05-07,Running Socks (3-pack),Apparel,North America,1,17.49
+ORD-10309,2025-05-08,Ceramic Mug Set,Home & Kitchen,Europe,1,31.18
+ORD-10310,2025-05-08,Running Socks (3-pack),Apparel,Asia Pacific,3,53.96
+ORD-10311,2025-05-08,Bluetooth Speaker,Electronics,Europe,1,77.2
+ORD-10312,2025-05-09,Wireless Earbuds,Electronics,North America,1,58.32
+ORD-10313,2025-05-09,Smart Watch,Electronics,Asia Pacific,4,789.34
+ORD-10314,2025-05-09,Smart Watch,Electronics,Europe,1,196.01
+ORD-10315,2025-05-09,Pour-Over Coffee Set,Home & Kitchen,North America,1,44.27
+ORD-10316,2025-05-10,Bluetooth Speaker,Electronics,North America,1,78.05
+ORD-10317,2025-05-10,Rain Jacket,Apparel,Europe,1,139.36
+ORD-10318,2025-05-10,Linen Throw Blanket,Home & Kitchen,Asia Pacific,2,127.53
+ORD-10319,2025-05-10,Chef's Knife,Home & Kitchen,North America,1,87.36
+ORD-10320,2025-05-11,Rain Jacket,Apparel,Asia Pacific,1,139.9
+ORD-10321,2025-05-11,Linen Throw Blanket,Home & Kitchen,Europe,1,63.33
+ORD-10322,2025-05-12,Trail Backpack,Outdoors,North America,1,117.6
+ORD-10323,2025-05-12,Ceramic Mug Set,Home & Kitchen,North America,3,93.52
+ORD-10324,2025-05-12,Cookbook: Weeknight Meals,Books,North America,5,138.91
+ORD-10325,2025-05-13,Rain Jacket,Apparel,Europe,2,275.59
+ORD-10326,2025-05-13,Bluetooth Speaker,Electronics,Europe,5,390.07
+ORD-10327,2025-05-14,Rain Jacket,Apparel,Asia Pacific,2,276.61
+ORD-10328,2025-05-14,Smart Watch,Electronics,Asia Pacific,2,388.1
+ORD-10329,2025-05-14,Insulated Water Bottle,Outdoors,North America,2,56.31
+ORD-10330,2025-05-14,Data Science Handbook,Books,North America,1,38.32
+ORD-10331,2025-05-15,Ceramic Mug Set,Home & Kitchen,Asia Pacific,2,62.2
+ORD-10332,2025-05-15,Smart Watch,Electronics,Europe,5,979.43
+ORD-10333,2025-05-16,Chef's Knife,Home & Kitchen,Europe,1,87.79
+ORD-10334,2025-05-16,Camping Hammock,Outdoors,Europe,2,108.71
+ORD-10335,2025-05-16,Smart Watch,Electronics,North America,1,198.65
+ORD-10336,2025-05-17,Insulated Water Bottle,Outdoors,North America,1,28.94
+ORD-10337,2025-05-17,Running Socks (3-pack),Apparel,North America,2,35.51
+ORD-10338,2025-05-17,Running Socks (3-pack),Apparel,Asia Pacific,4,71.58
+ORD-10339,2025-05-17,Bluetooth Speaker,Electronics,Latin America,1,78.82
+ORD-10340,2025-05-17,Trail Backpack,Outdoors,North America,1,119.76
+ORD-10341,2025-05-17,Camping Hammock,Outdoors,Asia Pacific,1,53.43
+ORD-10342,2025-05-18,Data Science Handbook,Books,Europe,1,38.31
+ORD-10343,2025-05-18,Trail Backpack,Outdoors,North America,2,239.49
+ORD-10344,2025-05-18,Ceramic Mug Set,Home & Kitchen,Europe,1,31.97
+ORD-10345,2025-05-19,Data Science Handbook,Books,Europe,1,38.69
+ORD-10346,2025-05-19,Merino Hoodie,Apparel,Latin America,1,94.66
+ORD-10347,2025-05-20,Wireless Earbuds,Electronics,Latin America,1,58.11
+ORD-10348,2025-05-20,Cookbook: Weeknight Meals,Books,Asia Pacific,1,27.64
+ORD-10349,2025-05-20,Bluetooth Speaker,Electronics,North America,5,389.59
+ORD-10350,2025-05-20,Chef's Knife,Home & Kitchen,Asia Pacific,1,86.84
+ORD-10351,2025-05-21,Linen Throw Blanket,Home & Kitchen,Asia Pacific,1,63.71
+ORD-10352,2025-05-21,Smart Watch,Electronics,North America,3,595.16
+ORD-10353,2025-05-21,Rain Jacket,Apparel,North America,1,136.2
+ORD-10354,2025-05-22,Cookbook: Weeknight Meals,Books,North America,1,27.38
+ORD-10355,2025-05-22,Bluetooth Speaker,Electronics,Latin America,1,78.34
+ORD-10356,2025-05-22,Bluetooth Speaker,Electronics,Asia Pacific,1,76.91
+ORD-10357,2025-05-23,Linen Throw Blanket,Home & Kitchen,Asia Pacific,2,129.77
+ORD-10358,2025-05-23,Chef's Knife,Home & Kitchen,North America,1,86.74
+ORD-10359,2025-05-24,Rain Jacket,Apparel,North America,2,279.27
+ORD-10360,2025-05-24,Rain Jacket,Apparel,Asia Pacific,2,277.31
+ORD-10361,2025-05-24,Camping Hammock,Outdoors,Europe,2,106.96
+ORD-10362,2025-05-24,Camping Hammock,Outdoors,Latin America,1,54.24
+ORD-10363,2025-05-24,USB-C Charger,Electronics,North America,1,23.7
+ORD-10364,2025-05-25,Running Socks (3-pack),Apparel,North America,1,17.76
+ORD-10365,2025-05-25,Insulated Water Bottle,Outdoors,Asia Pacific,1,28.84
+ORD-10366,2025-05-25,Rain Jacket,Apparel,North America,1,138.74
+ORD-10367,2025-05-25,Pour-Over Coffee Set,Home & Kitchen,Latin America,1,44.91
+ORD-10368,2025-05-25,USB-C Charger,Electronics,North America,1,23.74
+ORD-10369,2025-05-26,Insulated Water Bottle,Outdoors,Latin America,1,28.89
+ORD-10370,2025-05-26,Cookbook: Weeknight Meals,Books,North America,5,139.47
+ORD-10371,2025-05-26,Bluetooth Speaker,Electronics,North America,5,387.81
+ORD-10372,2025-05-26,Smart Watch,Electronics,Asia Pacific,2,397.74
+ORD-10373,2025-05-27,Ceramic Mug Set,Home & Kitchen,Asia Pacific,1,31.37
+ORD-10374,2025-05-28,Wireless Earbuds,Electronics,North America,2,116.64
+ORD-10375,2025-05-28,Data Science Handbook,Books,North America,1,38.52
+ORD-10376,2025-05-28,Pour-Over Coffee Set,Home & Kitchen,North America,1,44.24
+ORD-10377,2025-05-29,Merino Hoodie,Apparel,Europe,1,94.47
+ORD-10378,2025-05-30,Running Socks (3-pack),Apparel,Europe,2,35.8
+ORD-10379,2025-05-30,Smart Watch,Electronics,Latin America,1,195.5
+ORD-10380,2025-05-31,Trail Backpack,Outdoors,Europe,1,118.18
+ORD-10381,2025-05-31,Cookbook: Weeknight Meals,Books,Asia Pacific,1,27.51
+ORD-10382,2025-05-31,USB-C Charger,Electronics,North America,1,23.45
+ORD-10383,2025-06-01,Smart Watch,Electronics,Asia Pacific,4,785.55
+ORD-10384,2025-06-01,Data Science Handbook,Books,Europe,1,38.22
+ORD-10385,2025-06-01,USB-C Charger,Electronics,Asia Pacific,1,23.8
+ORD-10386,2025-06-01,Bluetooth Speaker,Electronics,North America,2,153.45
+ORD-10387,2025-06-01,Smart Watch,Electronics,Europe,3,585.05
+ORD-10388,2025-06-02,Data Science Handbook,Books,Asia Pacific,2,77.8
+ORD-10389,2025-06-02,Insulated Water Bottle,Outdoors,Latin America,2,57.61
+ORD-10390,2025-06-02,Linen Throw Blanket,Home & Kitchen,North America,1,64.77
+ORD-10391,2025-06-02,Insulated Water Bottle,Outdoors,Europe,2,57.61
+ORD-10392,2025-06-03,Ceramic Mug Set,Home & Kitchen,Asia Pacific,1,31.24
+ORD-10393,2025-06-03,Pour-Over Coffee Set,Home & Kitchen,Europe,1,43.85
+ORD-10394,2025-06-03,USB-C Charger,Electronics,North America,1,23.45
+ORD-10395,2025-06-04,Insulated Water Bottle,Outdoors,North America,3,86.91
+ORD-10396,2025-06-04,Trail Backpack,Outdoors,Asia Pacific,1,116.9
+ORD-10397,2025-06-05,Chef's Knife,Home & Kitchen,Latin America,1,88.04
+ORD-10398,2025-06-05,Wireless Earbuds,Electronics,Asia Pacific,1,58.68
+ORD-10399,2025-06-05,Wireless Earbuds,Electronics,Europe,3,172.92
+ORD-10400,2025-06-06,Linen Throw Blanket,Home & Kitchen,North America,2,129.74
+ORD-10401,2025-06-06,Cookbook: Weeknight Meals,Books,North America,1,27.51
+ORD-10402,2025-06-06,Bluetooth Speaker,Electronics,Europe,1,77.82
+ORD-10403,2025-06-07,Trail Backpack,Outdoors,North America,1,116.94
+ORD-10404,2025-06-07,Bluetooth Speaker,Electronics,Asia Pacific,1,77.57
+ORD-10405,2025-06-07,Ceramic Mug Set,Home & Kitchen,Europe,1,31.71
+ORD-10406,2025-06-07,Wireless Earbuds,Electronics,Europe,3,175.72
+ORD-10407,2025-06-08,Trail Backpack,Outdoors,Asia Pacific,1,119.44
+ORD-10408,2025-06-08,Trail Backpack,Outdoors,Asia Pacific,4,468.91
+ORD-10409,2025-06-08,Cookbook: Weeknight Meals,Books,North America,4,110.94
+ORD-10410,2025-06-08,Wireless Earbuds,Electronics,North America,3,171.77
+ORD-10411,2025-06-08,Smart Watch,Electronics,Asia Pacific,2,390.82
+ORD-10412,2025-06-08,Trail Backpack,Outdoors,Asia Pacific,1,119.44
+ORD-10413,2025-06-09,Smart Watch,Electronics,Europe,2,396.2
+ORD-10414,2025-06-09,Insulated Water Bottle,Outdoors,Asia Pacific,1,28.99
+ORD-10415,2025-06-09,Insulated Water Bottle,Outdoors,North America,1,28.86
+ORD-10416,2025-06-09,Ceramic Mug Set,Home & Kitchen,Latin America,1,31.65
+ORD-10417,2025-06-09,Insulated Water Bottle,Outdoors,North America,1,28.99
+ORD-10418,2025-06-10,USB-C Charger,Electronics,Europe,2,47.51
+ORD-10419,2025-06-10,Bluetooth Speaker,Electronics,Asia Pacific,2,153.65
+ORD-10420,2025-06-10,Smart Watch,Electronics,Asia Pacific,1,193.67
+ORD-10421,2025-06-11,Bluetooth Speaker,Electronics,Europe,2,153.74
+ORD-10422,2025-06-11,USB-C Charger,Electronics,Europe,2,47.15
+ORD-10423,2025-06-12,Bluetooth Speaker,Electronics,Asia Pacific,1,77.61
+ORD-10424,2025-06-12,Rain Jacket,Apparel,Latin America,4,559.63
+ORD-10425,2025-06-12,Insulated Water Bottle,Outdoors,North America,1,28.36
+ORD-10426,2025-06-12,Smart Watch,Electronics,Europe,1,195.92
+ORD-10427,2025-06-13,Bluetooth Speaker,Electronics,Latin America,2,155.61
+ORD-10428,2025-06-13,Trail Backpack,Outdoors,North America,4,470.38
+ORD-10429,2025-06-13,Insulated Water Bottle,Outdoors,Europe,1,28.85
+ORD-10430,2025-06-14,Chef's Knife,Home & Kitchen,Europe,1,87.39
+ORD-10431,2025-06-14,Ceramic Mug Set,Home & Kitchen,Latin America,2,62.71
+ORD-10432,2025-06-14,USB-C Charger,Electronics,North America,4,93.7
+ORD-10433,2025-06-15,Data Science Handbook,Books,Asia Pacific,2,77.89
+ORD-10434,2025-06-15,Chef's Knife,Home & Kitchen,Europe,1,88.18
+ORD-10435,2025-06-16,Ceramic Mug Set,Home & Kitchen,North America,1,31.28
+ORD-10436,2025-06-16,USB-C Charger,Electronics,Asia Pacific,1,23.99
+ORD-10437,2025-06-16,Ceramic Mug Set,Home & Kitchen,Europe,4,127.5
+ORD-10438,2025-06-16,Pour-Over Coffee Set,Home & Kitchen,Asia Pacific,1,44.86
+ORD-10439,2025-06-17,Pour-Over Coffee Set,Home & Kitchen,North America,1,44.55
+ORD-10440,2025-06-18,Camping Hammock,Outdoors,Europe,2,109.89
+ORD-10441,2025-06-18,Pour-Over Coffee Set,Home & Kitchen,North America,1,44.66
+ORD-10442,2025-06-18,Trail Backpack,Outdoors,Europe,1,119.18
+ORD-10443,2025-06-18,Insulated Water Bottle,Outdoors,Latin America,1,28.39
+ORD-10444,2025-06-18,Trail Backpack,Outdoors,Latin America,1,119.18
+ORD-10445,2025-06-18,Insulated Water Bottle,Outdoors,Asia Pacific,1,28.39
+ORD-10446,2025-06-19,Data Science Handbook,Books,North America,4,151.98
+ORD-10447,2025-06-19,Ceramic Mug Set,Home & Kitchen,Asia Pacific,1,31.37
+ORD-10448,2025-06-19,USB-C Charger,Electronics,North America,1,23.86
+ORD-10449,2025-06-19,Bluetooth Speaker,Electronics,Europe,2,154.04
+ORD-10450,2025-06-20,Smart Watch,Electronics,North America,1,195.79
+ORD-10451,2025-06-20,Rain Jacket,Apparel,North America,2,275.23
+ORD-10452,2025-06-20,Smart Watch,Electronics,Europe,1,193.06
+ORD-10453,2025-06-20,Bluetooth Speaker,Electronics,Asia Pacific,3,230.33
+ORD-10454,2025-06-21,Smart Watch,Electronics,North America,1,193.71
+ORD-10455,2025-06-21,Camping Hammock,Outdoors,North America,1,54.0
+ORD-10456,2025-06-21,Bluetooth Speaker,Electronics,Asia Pacific,2,157.12
+ORD-10457,2025-06-21,Camping Hammock,Outdoors,Europe,2,107.73
+ORD-10458,2025-06-22,Chef's Knife,Home & Kitchen,Europe,1,86.7
+ORD-10459,2025-06-22,Chef's Knife,Home & Kitchen,Europe,1,88.78
+ORD-10460,2025-06-22,Data Science Handbook,Books,Europe,1,37.99
+ORD-10461,2025-06-22,Ceramic Mug Set,Home & Kitchen,Europe,3,95.86
+ORD-10462,2025-06-23,Chef's Knife,Home & Kitchen,Asia Pacific,5,438.4
+ORD-10463,2025-06-23,Ceramic Mug Set,Home & Kitchen,Europe,3,94.53
+ORD-10464,2025-06-23,Wireless Earbuds,Electronics,Asia Pacific,1,57.29
+ORD-10465,2025-06-24,Rain Jacket,Apparel,Asia Pacific,2,276.22
+ORD-10466,2025-06-24,Wireless Earbuds,Electronics,North America,1,58.98
+ORD-10467,2025-06-24,Pour-Over Coffee Set,Home & Kitchen,Asia Pacific,1,43.95
+ORD-10468,2025-06-25,Chef's Knife,Home & Kitchen,North America,5,437.65
+ORD-10469,2025-06-25,Pour-Over Coffee Set,Home & Kitchen,Europe,5,223.49
+ORD-10470,2025-06-25,Bluetooth Speaker,Electronics,Asia Pacific,2,155.29
+ORD-10471,2025-06-25,Trail Backpack,Outdoors,Asia Pacific,2,236.63
+ORD-10472,2025-06-25,Trail Backpack,Outdoors,Europe,2,236.63
+ORD-10473,2025-06-26,Cookbook: Weeknight Meals,Books,North America,1,27.88
+ORD-10474,2025-06-26,Data Science Handbook,Books,North America,2,76.62
+ORD-10475,2025-06-27,Bluetooth Speaker,Electronics,Asia Pacific,1,78.68
+ORD-10476,2025-06-27,Bluetooth Speaker,Electronics,Asia Pacific,2,156.47
+ORD-10477,2025-06-28,USB-C Charger,Electronics,North America,1,23.85
+ORD-10478,2025-06-28,Running Socks (3-pack),Apparel,Europe,1,17.97
+ORD-10479,2025-06-29,Ceramic Mug Set,Home & Kitchen,North America,1,31.78
+ORD-10480,2025-06-29,Rain Jacket,Apparel,Latin America,2,277.46
+ORD-10481,2025-06-29,Rain Jacket,Apparel,Europe,5,696.32
+ORD-10482,2025-06-29,Linen Throw Blanket,Home & Kitchen,Asia Pacific,1,64.18
+ORD-10483,2025-06-30,Pour-Over Coffee Set,Home & Kitchen,North America,2,89.56
+ORD-10484,2025-06-30,Smart Watch,Electronics,Europe,1,198.75
+ORD-10485,2025-07-01,Smart Watch,Electronics,Asia Pacific,1,198.25
+ORD-10486,2025-07-01,Merino Hoodie,Apparel,Europe,1,93.21
+ORD-10487,2025-07-01,Data Science Handbook,Books,North America,2,77.36
+ORD-10488,2025-07-02,Wireless Earbuds,Electronics,North America,1,57.46
+ORD-10489,2025-07-02,USB-C Charger,Electronics,North America,2,47.74
+ORD-10490,2025-07-02,Cookbook: Weeknight Meals,Books,Asia Pacific,1,27.35
+ORD-10491,2025-07-03,Wireless Earbuds,Electronics,North America,1,57.76
+ORD-10492,2025-07-03,Chef's Knife,Home & Kitchen,Europe,2,173.03
+ORD-10493,2025-07-04,Bluetooth Speaker,Electronics,Asia Pacific,2,153.98
+ORD-10494,2025-07-04,Ceramic Mug Set,Home & Kitchen,Asia Pacific,1,31.14
+ORD-10495,2025-07-05,Rain Jacket,Apparel,Asia Pacific,1,137.6
+ORD-10496,2025-07-05,Merino Hoodie,Apparel,North America,1,93.73
+ORD-10497,2025-07-05,Camping Hammock,Outdoors,North America,3,164.39
+ORD-10498,2025-07-06,USB-C Charger,Electronics,North America,1,23.93
+ORD-10499,2025-07-06,Cookbook: Weeknight Meals,Books,Europe,1,27.7
+ORD-10500,2025-07-06,Wireless Earbuds,Electronics,Latin America,4,229.85
+ORD-10501,2025-07-06,Rain Jacket,Apparel,Europe,1,136.53
+ORD-10502,2025-07-07,Pour-Over Coffee Set,Home & Kitchen,North America,1,44.0
+ORD-10503,2025-07-07,Wireless Earbuds,Electronics,Latin America,1,57.74
+ORD-10504,2025-07-07,Insulated Water Bottle,Outdoors,Asia Pacific,1,28.6
+ORD-10505,2025-07-07,Insulated Water Bottle,Outdoors,North America,4,115.91
+ORD-10506,2025-07-07,Bluetooth Speaker,Electronics,Europe,2,157.22
+ORD-10507,2025-07-07,Insulated Water Bottle,Outdoors,Latin America,1,28.6
+ORD-10508,2025-07-08,Trail Backpack,Outdoors,North America,1,117.96
+ORD-10509,2025-07-08,Pour-Over Coffee Set,Home & Kitchen,North America,2,89.3
+ORD-10510,2025-07-08,Smart Watch,Electronics,Asia Pacific,1,198.72
+ORD-10511,2025-07-09,Linen Throw Blanket,Home & Kitchen,North America,1,64.57
+ORD-10512,2025-07-09,Wireless Earbuds,Electronics,Asia Pacific,1,58.66
+ORD-10513,2025-07-09,Wireless Earbuds,Electronics,North America,5,291.7
+ORD-10514,2025-07-10,Smart Watch,Electronics,North America,1,193.64
+ORD-10515,2025-07-10,Trail Backpack,Outdoors,Asia Pacific,1,119.49
+ORD-10516,2025-07-10,Trail Backpack,Outdoors,Europe,1,119.49
+ORD-10517,2025-07-11,Wireless Earbuds,Electronics,Europe,1,57.5
+ORD-10518,2025-07-11,Data Science Handbook,Books,Europe,4,154.79
+ORD-10519,2025-07-11,Linen Throw Blanket,Home & Kitchen,North America,4,254.7
+ORD-10520,2025-07-12,Wireless Earbuds,Electronics,North America,3,176.9
+ORD-10521,2025-07-12,Data Science Handbook,Books,Asia Pacific,3,116.21
+ORD-10522,2025-07-12,Pour-Over Coffee Set,Home & Kitchen,Europe,1,43.92
+ORD-10523,2025-07-12,Camping Hammock,Outdoors,North America,1,54.95
+ORD-10524,2025-07-12,Data Science Handbook,Books,Asia Pacific,1,38.76
+ORD-10525,2025-07-12,Camping Hammock,Outdoors,Europe,1,54.95
+ORD-10526,2025-07-13,USB-C Charger,Electronics,North America,1,23.74
+ORD-10527,2025-07-13,Insulated Water Bottle,Outdoors,North America,2,57.74
+ORD-10528,2025-07-13,Camping Hammock,Outdoors,Latin America,1,54.94
+ORD-10529,2025-07-14,Wireless Earbuds,Electronics,Latin America,3,174.45
+ORD-10530,2025-07-14,Camping Hammock,Outdoors,North America,1,53.57
+ORD-10531,2025-07-14,Merino Hoodie,Apparel,Europe,1,94.04
+ORD-10532,2025-07-14,Bluetooth Speaker,Electronics,North America,1,78.53
+ORD-10533,2025-07-15,Insulated Water Bottle,Outdoors,Europe,1,28.95
+ORD-10534,2025-07-15,Wireless Earbuds,Electronics,North America,1,58.05
+ORD-10535,2025-07-15,Linen Throw Blanket,Home & Kitchen,Latin America,1,63.65
+ORD-10536,2025-07-16,Bluetooth Speaker,Electronics,Asia Pacific,2,153.45
+ORD-10537,2025-07-16,Running Socks (3-pack),Apparel,North America,2,35.97
+ORD-10538,2025-07-16,Pour-Over Coffee Set,Home & Kitchen,Europe,1,44.99
+ORD-10539,2025-07-17,USB-C Charger,Electronics,Asia Pacific,2,47.35
+ORD-10540,2025-07-17,Wireless Earbuds,Electronics,Asia Pacific,1,57.25
+ORD-10541,2025-07-17,Merino Hoodie,Apparel,North America,3,279.63
+ORD-10542,2025-07-17,Camping Hammock,Outdoors,Europe,4,213.89
+ORD-10543,2025-07-17,Camping Hammock,Outdoors,North America,4,213.89
+ORD-10544,2025-07-18,Trail Backpack,Outdoors,Latin America,3,352.78
+ORD-10545,2025-07-18,USB-C Charger,Electronics,North America,4,94.37
+ORD-10546,2025-07-18,Insulated Water Bottle,Outdoors,Asia Pacific,1,28.32
+ORD-10547,2025-07-18,Bluetooth Speaker,Electronics,Europe,1,78.09
+ORD-10548,2025-07-18,Trail Backpack,Outdoors,North America,3,352.78
+ORD-10549,2025-07-19,Insulated Water Bottle,Outdoors,Europe,2,56.37
+ORD-10550,2025-07-19,Smart Watch,Electronics,Europe,2,395.58
+ORD-10551,2025-07-19,Wireless Earbuds,Electronics,Latin America,2,115.73
+ORD-10552,2025-07-19,Ceramic Mug Set,Home & Kitchen,North America,2,62.7
+ORD-10553,2025-07-20,Insulated Water Bottle,Outdoors,North America,5,142.95
+ORD-10554,2025-07-20,Merino Hoodie,Apparel,Latin America,1,94.02
+ORD-10555,2025-07-20,Wireless Earbuds,Electronics,Asia Pacific,4,233.0
+ORD-10556,2025-07-20,Cookbook: Weeknight Meals,Books,North America,3,83.61
+ORD-10557,2025-07-20,Insulated Water Bottle,Outdoors,Latin America,5,142.95
+ORD-10558,2025-07-21,Bluetooth Speaker,Electronics,Asia Pacific,2,157.59
+ORD-10559,2025-07-21,Bluetooth Speaker,Electronics,Latin America,2,155.93
+ORD-10560,2025-07-21,USB-C Charger,Electronics,Europe,1,23.31
+ORD-10561,2025-07-22,USB-C Charger,Electronics,North America,4,93.7
+ORD-10562,2025-07-22,Smart Watch,Electronics,Latin America,3,584.89
+ORD-10563,2025-07-22,Smart Watch,Electronics,Asia Pacific,3,594.5
+ORD-10564,2025-07-22,Cookbook: Weeknight Meals,Books,Asia Pacific,2,55.3
+ORD-10565,2025-07-22,Linen Throw Blanket,Home & Kitchen,North America,1,64.9
+ORD-10566,2025-07-23,Running Socks (3-pack),Apparel,Europe,1,17.98
+ORD-10567,2025-07-23,Insulated Water Bottle,Outdoors,North America,2,56.57
+ORD-10568,2025-07-23,Linen Throw Blanket,Home & Kitchen,North America,2,129.8
+ORD-10569,2025-07-23,Cookbook: Weeknight Meals,Books,Asia Pacific,2,55.27
+ORD-10570,2025-07-24,Rain Jacket,Apparel,North America,2,279.47
+ORD-10571,2025-07-24,Wireless Earbuds,Electronics,North America,5,287.64
+ORD-10572,2025-07-24,Merino Hoodie,Apparel,Asia Pacific,2,188.46
+ORD-10573,2025-07-24,Pour-Over Coffee Set,Home & Kitchen,North America,1,43.74
+ORD-10574,2025-07-25,Wireless Earbuds,Electronics,Asia Pacific,1,58.01
+ORD-10575,2025-07-25,Chef's Knife,Home & Kitchen,Asia Pacific,1,87.34
+ORD-10576,2025-07-25,Pour-Over Coffee Set,Home & Kitchen,Asia Pacific,2,88.86
+ORD-10577,2025-07-25,Merino Hoodie,Apparel,North America,1,94.56
+ORD-10578,2025-07-26,Data Science Handbook,Books,North America,3,114.05
+ORD-10579,2025-07-26,Wireless Earbuds,Electronics,North America,5,294.06
+ORD-10580,2025-07-26,Camping Hammock,Outdoors,North America,3,160.83
+ORD-10581,2025-07-26,Smart Watch,Electronics,Latin America,1,196.34
+ORD-10582,2025-07-26,Camping Hammock,Outdoors,Latin America,3,160.83
+ORD-10583,2025-07-27,Cookbook: Weeknight Meals,Books,Europe,1,27.24
+ORD-10584,2025-07-27,Ceramic Mug Set,Home & Kitchen,North America,1,31.45
+ORD-10585,2025-07-27,USB-C Charger,Electronics,North America,1,23.4
+ORD-10586,2025-07-27,Wireless Earbuds,Electronics,Europe,1,58.62
+ORD-10587,2025-07-27,Linen Throw Blanket,Home & Kitchen,North America,1,63.41
+ORD-10588,2025-07-28,Linen Throw Blanket,Home & Kitchen,Europe,1,64.68
+ORD-10589,2025-07-28,Camping Hammock,Outdoors,Europe,1,53.92
+ORD-10590,2025-07-28,Chef's Knife,Home & Kitchen,Europe,3,265.55
+ORD-10591,2025-07-28,Ceramic Mug Set,Home & Kitchen,Europe,1,31.33
+ORD-10592,2025-07-29,Pour-Over Coffee Set,Home & Kitchen,Europe,4,178.92
+ORD-10593,2025-07-29,Trail Backpack,Outdoors,Latin America,1,119.82
+ORD-10594,2025-07-30,Wireless Earbuds,Electronics,Europe,5,290.0
+ORD-10595,2025-07-30,Data Science Handbook,Books,Asia Pacific,1,38.9
+ORD-10596,2025-07-30,Data Science Handbook,Books,North America,2,76.95
+ORD-10597,2025-07-31,Rain Jacket,Apparel,Europe,3,417.31
+ORD-10598,2025-07-31,Insulated Water Bottle,Outdoors,North America,1,28.62
+ORD-10599,2025-07-31,Trail Backpack,Outdoors,Latin America,2,233.53
+ORD-10600,2025-07-31,Bluetooth Speaker,Electronics,Asia Pacific,1,78.18
+ORD-10601,2025-08-01,USB-C Charger,Electronics,North America,2,47.56
+ORD-10602,2025-08-01,Bluetooth Speaker,Electronics,Asia Pacific,1,77.76
+ORD-10603,2025-08-02,Bluetooth Speaker,Electronics,North America,3,232.04
+ORD-10604,2025-08-02,USB-C Charger,Electronics,Asia Pacific,2,47.96
+ORD-10605,2025-08-02,Bluetooth Speaker,Electronics,Latin America,1,78.59
+ORD-10606,2025-08-03,Trail Backpack,Outdoors,Latin America,1,118.14
+ORD-10607,2025-08-03,Linen Throw Blanket,Home & Kitchen,Asia Pacific,1,63.36
+ORD-10608,2025-08-03,Ceramic Mug Set,Home & Kitchen,North America,3,95.65
+ORD-10609,2025-08-03,Smart Watch,Electronics,Asia Pacific,1,193.37
+ORD-10610,2025-08-03,Trail Backpack,Outdoors,Asia Pacific,1,118.14
+ORD-10611,2025-08-04,Wireless Earbuds,Electronics,Latin America,2,115.43
+ORD-10612,2025-08-04,Rain Jacket,Apparel,Europe,4,554.64
+ORD-10613,2025-08-04,USB-C Charger,Electronics,Europe,1,23.91
+ORD-10614,2025-08-04,Trail Backpack,Outdoors,Asia Pacific,1,119.39
+ORD-10615,2025-08-04,Trail Backpack,Outdoors,Asia Pacific,1,119.39
+ORD-10616,2025-08-05,Smart Watch,Electronics,Asia Pacific,2,394.15
+ORD-10617,2025-08-05,USB-C Charger,Electronics,Europe,3,71.93
+ORD-10618,2025-08-05,Trail Backpack,Outdoors,Europe,2,232.86
+ORD-10619,2025-08-05,Trail Backpack,Outdoors,North America,2,232.86
+ORD-10620,2025-08-06,Bluetooth Speaker,Electronics,Asia Pacific,2,154.57
+ORD-10621,2025-08-06,Running Socks (3-pack),Apparel,Europe,1,17.62
+ORD-10622,2025-08-06,Ceramic Mug Set,Home & Kitchen,Europe,1,32.0
+ORD-10623,2025-08-07,Insulated Water Bottle,Outdoors,North America,1,28.19
+ORD-10624,2025-08-07,Cookbook: Weeknight Meals,Books,Asia Pacific,1,27.76
+ORD-10625,2025-08-07,Running Socks (3-pack),Apparel,North America,1,17.59
+ORD-10626,2025-08-07,USB-C Charger,Electronics,Europe,2,47.6
+ORD-10627,2025-08-07,Insulated Water Bottle,Outdoors,Latin America,1,28.77
+ORD-10628,2025-08-08,Trail Backpack,Outdoors,North America,2,237.74
+ORD-10629,2025-08-08,Camping Hammock,Outdoors,North America,1,53.63
+ORD-10630,2025-08-08,Trail Backpack,Outdoors,Latin America,2,237.74
+ORD-10631,2025-08-09,USB-C Charger,Electronics,North America,1,23.86
+ORD-10632,2025-08-09,Merino Hoodie,Apparel,Latin America,3,282.05
+ORD-10633,2025-08-09,Smart Watch,Electronics,Asia Pacific,1,197.73
+ORD-10634,2025-08-10,Linen Throw Blanket,Home & Kitchen,Europe,1,63.28
+ORD-10635,2025-08-10,Wireless Earbuds,Electronics,Europe,1,57.44
+ORD-10636,2025-08-11,Chef's Knife,Home & Kitchen,North America,1,87.42
+ORD-10637,2025-08-11,Insulated Water Bottle,Outdoors,North America,3,84.86
+ORD-10638,2025-08-11,Insulated Water Bottle,Outdoors,Latin America,3,84.86
+ORD-10639,2025-08-12,Bluetooth Speaker,Electronics,Europe,1,78.13
+ORD-10640,2025-08-12,Bluetooth Speaker,Electronics,North America,2,155.99
+ORD-10641,2025-08-13,Merino Hoodie,Apparel,Europe,2,186.6
+ORD-10642,2025-08-13,Cookbook: Weeknight Meals,Books,North America,1,27.77
+ORD-10643,2025-08-13,Cookbook: Weeknight Meals,Books,Asia Pacific,1,27.18
+ORD-10644,2025-08-13,Smart Watch,Electronics,North America,3,584.68
+ORD-10645,2025-08-14,Bluetooth Speaker,Electronics,North America,3,232.01
+ORD-10646,2025-08-14,Bluetooth Speaker,Electronics,Europe,2,153.89
+ORD-10647,2025-08-14,Cookbook: Weeknight Meals,Books,North America,1,27.96
+ORD-10648,2025-08-14,Cookbook: Weeknight Meals,Books,North America,1,27.99
+ORD-10649,2025-08-14,Wireless Earbuds,Electronics,Europe,1,57.88
+ORD-10650,2025-08-15,Running Socks (3-pack),Apparel,Asia Pacific,2,35.56
+ORD-10651,2025-08-15,Wireless Earbuds,Electronics,Europe,1,58.45
+ORD-10652,2025-08-15,Ceramic Mug Set,Home & Kitchen,North America,1,31.71
+ORD-10653,2025-08-16,Wireless Earbuds,Electronics,North America,2,116.81
+ORD-10654,2025-08-16,Smart Watch,Electronics,Europe,3,588.25
+ORD-10655,2025-08-16,Trail Backpack,Outdoors,Europe,2,238.4
+ORD-10656,2025-08-16,Trail Backpack,Outdoors,Asia Pacific,2,238.4
+ORD-10657,2025-08-17,Ceramic Mug Set,Home & Kitchen,North America,1,31.52
+ORD-10658,2025-08-17,USB-C Charger,Electronics,North America,1,23.76
+ORD-10659,2025-08-17,Cookbook: Weeknight Meals,Books,North America,1,27.59
+ORD-10660,2025-08-17,Insulated Water Bottle,Outdoors,Europe,1,28.98
+ORD-10661,2025-08-17,Wireless Earbuds,Electronics,North America,1,57.3
+ORD-10662,2025-08-17,Insulated Water Bottle,Outdoors,North America,1,28.98
+ORD-10663,2025-08-18,Bluetooth Speaker,Electronics,Europe,1,78.65
+ORD-10664,2025-08-19,Smart Watch,Electronics,North America,3,596.2
+ORD-10665,2025-08-19,Wireless Earbuds,Electronics,North America,1,57.43
+ORD-10666,2025-08-19,Ceramic Mug Set,Home & Kitchen,North America,1,31.86
+ORD-10667,2025-08-20,Rain Jacket,Apparel,Asia Pacific,1,136.36
+ORD-10668,2025-08-20,Trail Backpack,Outdoors,North America,4,472.55
+ORD-10669,2025-08-20,Camping Hammock,Outdoors,North America,1,53.4
+ORD-10670,2025-08-20,Trail Backpack,Outdoors,Europe,4,472.55
+ORD-10671,2025-08-20,Camping Hammock,Outdoors,Europe,1,53.4
+ORD-10672,2025-08-21,Data Science Handbook,Books,Europe,1,38.87
+ORD-10673,2025-08-21,Pour-Over Coffee Set,Home & Kitchen,North America,1,44.6
+ORD-10674,2025-08-22,Camping Hammock,Outdoors,Asia Pacific,1,54.93
+ORD-10675,2025-08-22,USB-C Charger,Electronics,Asia Pacific,1,2400.0
+ORD-10676,2025-08-23,Insulated Water Bottle,Outdoors,Europe,1,28.43
+ORD-10677,2025-08-23,Camping Hammock,Outdoors,Asia Pacific,2,106.74
+ORD-10678,2025-08-23,Cookbook: Weeknight Meals,Books,Asia Pacific,3,81.67
+ORD-10679,2025-08-23,Chef's Knife,Home & Kitchen,North America,1,87.68
+ORD-10680,2025-08-23,Trail Backpack,Outdoors,North America,1,118.46
+ORD-10681,2025-08-23,Trail Backpack,Outdoors,Latin America,1,118.46
+ORD-10682,2025-08-24,USB-C Charger,Electronics,Europe,1,23.64
+ORD-10683,2025-08-24,Insulated Water Bottle,Outdoors,North America,1,28.85
+ORD-10684,2025-08-24,Rain Jacket,Apparel,Europe,3,414.49
+ORD-10685,2025-08-25,Pour-Over Coffee Set,Home & Kitchen,Asia Pacific,3,132.29
+ORD-10686,2025-08-25,Rain Jacket,Apparel,Europe,2,277.61
+ORD-10687,2025-08-26,Smart Watch,Electronics,North America,1,196.81
+ORD-10688,2025-08-26,Rain Jacket,Apparel,Europe,2,271.98
+ORD-10689,2025-08-27,Trail Backpack,Outdoors,North America,1,116.83
+ORD-10690,2025-08-27,Merino Hoodie,Apparel,Europe,2,188.39
+ORD-10691,2025-08-27,USB-C Charger,Electronics,North America,2,47.53
+ORD-10692,2025-08-27,Trail Backpack,Outdoors,Europe,1,116.83
+ORD-10693,2025-08-28,USB-C Charger,Electronics,Europe,2,47.29
+ORD-10694,2025-08-28,Data Science Handbook,Books,Europe,1,38.92
+ORD-10695,2025-08-28,Running Socks (3-pack),Apparel,Latin America,2,35.9
+ORD-10696,2025-08-29,Merino Hoodie,Apparel,Europe,2,189.33
+ORD-10697,2025-08-29,Ceramic Mug Set,Home & Kitchen,Europe,2,63.41
+ORD-10698,2025-08-29,USB-C Charger,Electronics,Latin America,5,118.03
+ORD-10699,2025-08-30,USB-C Charger,Electronics,Europe,3,70.95
+ORD-10700,2025-08-30,Rain Jacket,Apparel,Asia Pacific,2,279.46
+ORD-10701,2025-08-30,Camping Hammock,Outdoors,Asia Pacific,2,109.74
+ORD-10702,2025-08-31,Data Science Handbook,Books,Europe,2,76.41
+ORD-10703,2025-08-31,Bluetooth Speaker,Electronics,Europe,2,157.73
+ORD-10704,2025-08-31,Camping Hammock,Outdoors,North America,3,164.05
+ORD-10705,2025-08-31,Pour-Over Coffee Set,Home & Kitchen,Europe,1,43.73
+ORD-10706,2025-08-31,Smart Watch,Electronics,Latin America,2,387.81
+ORD-10707,2025-09-01,Bluetooth Speaker,Electronics,North America,1,77.48
+ORD-10708,2025-09-01,Chef's Knife,Home & Kitchen,Asia Pacific,2,173.93
+ORD-10709,2025-09-01,Rain Jacket,Apparel,North America,2,279.38
+ORD-10710,2025-09-01,Linen Throw Blanket,Home & Kitchen,Latin America,1,64.5
+ORD-10711,2025-09-02,Running Socks (3-pack),Apparel,Asia Pacific,4,71.36
+ORD-10712,2025-09-02,Camping Hammock,Outdoors,Europe,2,109.26
+ORD-10713,2025-09-02,Cookbook: Weeknight Meals,Books,Europe,5,136.11
+ORD-10714,2025-09-03,Data Science Handbook,Books,North America,1,38.48
+ORD-10715,2025-09-03,Bluetooth Speaker,Electronics,North America,1,78.85
+ORD-10716,2025-09-03,Bluetooth Speaker,Electronics,Europe,2,156.22
+ORD-10717,2025-09-03,Running Socks (3-pack),Apparel,Europe,2,35.31
+ORD-10718,2025-09-03,Running Socks (3-pack),Apparel,Europe,4,70.96
+ORD-10719,2025-09-04,Ceramic Mug Set,Home & Kitchen,North America,1,31.24
+ORD-10720,2025-09-04,Linen Throw Blanket,Home & Kitchen,North America,4,257.02
+ORD-10721,2025-09-04,Pour-Over Coffee Set,Home & Kitchen,North America,1,43.97
+ORD-10722,2025-09-05,Camping Hammock,Outdoors,North America,1,54.81
+ORD-10723,2025-09-05,Pour-Over Coffee Set,Home & Kitchen,Europe,1,44.03
+ORD-10724,2025-09-06,Ceramic Mug Set,Home & Kitchen,Europe,1,31.67
+ORD-10725,2025-09-06,Pour-Over Coffee Set,Home & Kitchen,Latin America,1,44.94
+ORD-10726,2025-09-06,Pour-Over Coffee Set,Home & Kitchen,Europe,1,44.5
+ORD-10727,2025-09-06,USB-C Charger,Electronics,Asia Pacific,1,23.88
+ORD-10728,2025-09-06,Rain Jacket,Apparel,Asia Pacific,2,279.49
+ORD-10729,2025-09-07,Merino Hoodie,Apparel,North America,2,184.52
+ORD-10730,2025-09-07,Smart Watch,Electronics,Asia Pacific,2,392.93
+ORD-10731,2025-09-08,Ceramic Mug Set,Home & Kitchen,Europe,1,31.69
+ORD-10732,2025-09-08,Pour-Over Coffee Set,Home & Kitchen,Asia Pacific,2,89.19
+ORD-10733,2025-09-08,Wireless Earbuds,Electronics,North America,2,116.61
+ORD-10734,2025-09-09,USB-C Charger,Electronics,Europe,3,69.91
+ORD-10735,2025-09-09,Smart Watch,Electronics,North America,1,197.79
+ORD-10736,2025-09-09,Chef's Knife,Home & Kitchen,North America,3,266.72
+ORD-10737,2025-09-10,Data Science Handbook,Books,Europe,2,75.95
+ORD-10738,2025-09-10,USB-C Charger,Electronics,Europe,4,94.0
+ORD-10739,2025-09-10,Rain Jacket,Apparel,North America,1,138.51
+ORD-10740,2025-09-10,Chef's Knife,Home & Kitchen,North America,2,174.01
+ORD-10741,2025-09-11,Wireless Earbuds,Electronics,Asia Pacific,4,235.96
+ORD-10742,2025-09-12,Wireless Earbuds,Electronics,North America,1,58.26
+ORD-10743,2025-09-13,Cookbook: Weeknight Meals,Books,North America,2,54.49
+ORD-10744,2025-09-13,Trail Backpack,Outdoors,North America,1,118.62
+ORD-10745,2025-09-13,Chef's Knife,Home & Kitchen,Europe,1,87.17
+ORD-10746,2025-09-13,Pour-Over Coffee Set,Home & Kitchen,North America,2,89.22
+ORD-10747,2025-09-14,Linen Throw Blanket,Home & Kitchen,Asia Pacific,1,63.75
+ORD-10748,2025-09-14,Pour-Over Coffee Set,Home & Kitchen,North America,2,89.57
+ORD-10749,2025-09-14,Merino Hoodie,Apparel,Asia Pacific,1,94.24
+ORD-10750,2025-09-15,Camping Hammock,Outdoors,North America,1,54.19
+ORD-10751,2025-09-15,USB-C Charger,Electronics,Asia Pacific,1,23.31
+ORD-10752,2025-09-16,Chef's Knife,Home & Kitchen,North America,1,88.39
+ORD-10753,2025-09-16,Running Socks (3-pack),Apparel,North America,1,17.51
+ORD-10754,2025-09-17,Pour-Over Coffee Set,Home & Kitchen,Europe,3,134.22
+ORD-10755,2025-09-17,Trail Backpack,Outdoors,Asia Pacific,1,116.97
+ORD-10756,2025-09-17,Camping Hammock,Outdoors,Europe,5,272.82
+ORD-10757,2025-09-17,Linen Throw Blanket,Home & Kitchen,North America,2,127.0
+ORD-10758,2025-09-17,Smart Watch,Electronics,North America,1,198.45
+ORD-10759,2025-09-18,Pour-Over Coffee Set,Home & Kitchen,North America,2,87.58
+ORD-10760,2025-09-18,Cookbook: Weeknight Meals,Books,Asia Pacific,1,27.62
+ORD-10761,2025-09-19,USB-C Charger,Electronics,North America,2,47.76
+ORD-10762,2025-09-19,Ceramic Mug Set,Home & Kitchen,Latin America,1,31.43
+ORD-10763,2025-09-19,Running Socks (3-pack),Apparel,Europe,1,17.79
+ORD-10764,2025-09-19,Chef's Knife,Home & Kitchen,Europe,1,87.7
+ORD-10765,2025-09-20,Wireless Earbuds,Electronics,Europe,1,57.81
+ORD-10766,2025-09-20,USB-C Charger,Electronics,Europe,2,47.49
+ORD-10767,2025-09-20,Chef's Knife,Home & Kitchen,North America,2,173.52
+ORD-10768,2025-09-21,Trail Backpack,Outdoors,Asia Pacific,1,117.0
+ORD-10769,2025-09-21,Cookbook: Weeknight Meals,Books,Europe,2,54.35
+ORD-10770,2025-09-21,Camping Hammock,Outdoors,Asia Pacific,4,214.83
+ORD-10771,2025-09-21,Insulated Water Bottle,Outdoors,Asia Pacific,1,28.85
+ORD-10772,2025-09-22,Merino Hoodie,Apparel,Europe,1,92.63
+ORD-10773,2025-09-23,Insulated Water Bottle,Outdoors,Europe,1,28.46
+ORD-10774,2025-09-24,Ceramic Mug Set,Home & Kitchen,Asia Pacific,2,62.42
+ORD-10775,2025-09-24,Data Science Handbook,Books,Asia Pacific,1,38.71
+ORD-10776,2025-09-24,Smart Watch,Electronics,Latin America,1,193.04
+ORD-10777,2025-09-25,Cookbook: Weeknight Meals,Books,Europe,1,27.2
+ORD-10778,2025-09-25,Chef's Knife,Home & Kitchen,Latin America,1,88.38
+ORD-10779,2025-09-25,Pour-Over Coffee Set,Home & Kitchen,Europe,1,44.68
+ORD-10780,2025-09-26,Camping Hammock,Outdoors,Europe,1,54.52
+ORD-10781,2025-09-26,Rain Jacket,Apparel,Europe,1,137.38
+ORD-10782,2025-09-26,Bluetooth Speaker,Electronics,Europe,1,77.64
+ORD-10783,2025-09-27,Insulated Water Bottle,Outdoors,Asia Pacific,1,28.45
+ORD-10784,2025-09-27,USB-C Charger,Electronics,Asia Pacific,1,23.84
+ORD-10785,2025-09-27,Linen Throw Blanket,Home & Kitchen,Europe,1,64.98
+ORD-10786,2025-09-28,Chef's Knife,Home & Kitchen,Asia Pacific,2,176.65
+ORD-10787,2025-09-29,Chef's Knife,Home & Kitchen,North America,1,88.43
+ORD-10788,2025-09-29,Rain Jacket,Apparel,Asia Pacific,2,272.95
+ORD-10789,2025-09-30,Smart Watch,Electronics,Europe,2,387.11
+ORD-10790,2025-09-30,Bluetooth Speaker,Electronics,North America,1,77.54
+ORD-10791,2025-09-30,Cookbook: Weeknight Meals,Books,Asia Pacific,2,55.91
+ORD-10792,2025-10-01,Rain Jacket,Apparel,Europe,1,139.37
+ORD-10793,2025-10-01,Cookbook: Weeknight Meals,Books,North America,2,55.18
+ORD-10794,2025-10-01,Camping Hammock,Outdoors,North America,1,53.74
+ORD-10795,2025-10-02,Cookbook: Weeknight Meals,Books,North America,1,27.65
+ORD-10796,2025-10-02,Pour-Over Coffee Set,Home & Kitchen,Latin America,1,44.63
+ORD-10797,2025-10-02,Camping Hammock,Outdoors,North America,5,269.03
+ORD-10798,2025-10-02,Trail Backpack,Outdoors,Europe,1,116.42
+ORD-10799,2025-10-03,Wireless Earbuds,Electronics,Europe,1,57.83
+ORD-10800,2025-10-03,Bluetooth Speaker,Electronics,Asia Pacific,3,233.98
+ORD-10801,2025-10-03,Insulated Water Bottle,Outdoors,Europe,2,57.58
+ORD-10802,2025-10-04,Pour-Over Coffee Set,Home & Kitchen,Europe,1,44.17
+ORD-10803,2025-10-04,Merino Hoodie,Apparel,Europe,1,93.05
+ORD-10804,2025-10-04,Data Science Handbook,Books,Asia Pacific,1,38.17
+ORD-10805,2025-10-04,Linen Throw Blanket,Home & Kitchen,North America,4,255.92
+ORD-10806,2025-10-04,Linen Throw Blanket,Home & Kitchen,North America,2,129.73
+ORD-10807,2025-10-05,Smart Watch,Electronics,North America,1,194.61
+ORD-10808,2025-10-05,Smart Watch,Electronics,Asia Pacific,1,197.68
+ORD-10809,2025-10-05,Wireless Earbuds,Electronics,Europe,2,116.63
+ORD-10810,2025-10-05,Rain Jacket,Apparel,North America,-3,-420.0
+ORD-10811,2025-10-06,USB-C Charger,Electronics,North America,1,23.93
+ORD-10812,2025-10-06,Rain Jacket,Apparel,Asia Pacific,1,139.93
+ORD-10813,2025-10-06,Cookbook: Weeknight Meals,Books,Europe,2,54.54
+ORD-10814,2025-10-07,Ceramic Mug Set,Home & Kitchen,Europe,1,31.52
+ORD-10815,2025-10-08,Wireless Earbuds,Electronics,Asia Pacific,1,58.45
+ORD-10816,2025-10-09,Smart Watch,Electronics,North America,1,195.19
+ORD-10817,2025-10-09,Merino Hoodie,Apparel,Europe,1,93.49
+ORD-10818,2025-10-09,Insulated Water Bottle,Outdoors,North America,1,28.49
+ORD-10819,2025-10-09,Running Socks (3-pack),Apparel,Asia Pacific,1,17.56
+ORD-10820,2025-10-10,Wireless Earbuds,Electronics,Asia Pacific,3,174.64
+ORD-10821,2025-10-10,Merino Hoodie,Apparel,North America,4,370.3
+ORD-10822,2025-10-10,Merino Hoodie,Apparel,Europe,1,94.7
+ORD-10823,2025-10-10,Camping Hammock,Outdoors,Asia Pacific,2,107.69
+ORD-10824,2025-10-11,Camping Hammock,Outdoors,North America,1,53.62
+ORD-10825,2025-10-11,Bluetooth Speaker,Electronics,Europe,2,155.39
+ORD-10826,2025-10-11,Linen Throw Blanket,Home & Kitchen,North America,2,129.26
+ORD-10827,2025-10-11,Ceramic Mug Set,Home & Kitchen,North America,3,95.89
+ORD-10828,2025-10-11,Smart Watch,Electronics,Latin America,1,194.97
+ORD-10829,2025-10-12,Pour-Over Coffee Set,Home & Kitchen,Europe,1,44.5
+ORD-10830,2025-10-12,Smart Watch,Electronics,Europe,4,782.19
+ORD-10831,2025-10-13,Insulated Water Bottle,Outdoors,Asia Pacific,1,28.27
+ORD-10832,2025-10-13,Bluetooth Speaker,Electronics,Europe,2,156.13
+ORD-10833,2025-10-13,Ceramic Mug Set,Home & Kitchen,Asia Pacific,4,127.03
+ORD-10834,2025-10-14,Wireless Earbuds,Electronics,North America,1,57.68
+ORD-10835,2025-10-14,Rain Jacket,Apparel,North America,1,136.23
+ORD-10836,2025-10-15,USB-C Charger,Electronics,Europe,1,23.57
+ORD-10837,2025-10-15,Merino Hoodie,Apparel,North America,2,184.78
+ORD-10838,2025-10-15,Cookbook: Weeknight Meals,Books,North America,1,27.4
+ORD-10839,2025-10-16,Merino Hoodie,Apparel,North America,1,94.76
+ORD-10840,2025-10-16,Running Socks (3-pack),Apparel,Latin America,1,17.61
+ORD-10841,2025-10-17,Chef's Knife,Home & Kitchen,Europe,1,88.33
+ORD-10842,2025-10-17,Running Socks (3-pack),Apparel,Europe,2,35.25
+ORD-10843,2025-10-18,Running Socks (3-pack),Apparel,North America,1,17.54
+ORD-10844,2025-10-18,Smart Watch,Electronics,North America,1,193.08
+ORD-10845,2025-10-18,Cookbook: Weeknight Meals,Books,North America,2,55.66
+ORD-10846,2025-10-19,Trail Backpack,Outdoors,Europe,1,119.58
+ORD-10847,2025-10-19,Chef's Knife,Home & Kitchen,North America,2,174.74
+ORD-10848,2025-10-19,Linen Throw Blanket,Home & Kitchen,North America,2,128.11
+ORD-10849,2025-10-19,Rain Jacket,Apparel,Asia Pacific,2,273.99
+ORD-10850,2025-10-19,Running Socks (3-pack),Apparel,Europe,3,52.68
+ORD-10851,2025-10-20,Insulated Water Bottle,Outdoors,Asia Pacific,1,28.41
+ORD-10852,2025-10-20,Wireless Earbuds,Electronics,North America,1,57.71
+ORD-10853,2025-10-21,Camping Hammock,Outdoors,North America,1,53.37
+ORD-10854,2025-10-21,USB-C Charger,Electronics,North America,2,48.0
+ORD-10855,2025-10-21,Pour-Over Coffee Set,Home & Kitchen,North America,3,134.8
+ORD-10856,2025-10-21,USB-C Charger,Electronics,North America,1,23.42
+ORD-10857,2025-10-21,Running Socks (3-pack),Apparel,Asia Pacific,1,17.87
+ORD-10858,2025-10-22,Pour-Over Coffee Set,Home & Kitchen,North America,2,87.55
+ORD-10859,2025-10-22,Trail Backpack,Outdoors,Europe,2,235.05
+ORD-10860,2025-10-22,Pour-Over Coffee Set,Home & Kitchen,Asia Pacific,1,43.81
+ORD-10861,2025-10-23,Linen Throw Blanket,Home & Kitchen,North America,3,194.2
+ORD-10862,2025-10-23,Wireless Earbuds,Electronics,North America,1,57.26
+ORD-10863,2025-10-23,Rain Jacket,Apparel,North America,2,271.68
+ORD-10864,2025-10-23,USB-C Charger,Electronics,Asia Pacific,1,23.83
+ORD-10865,2025-10-23,USB-C Charger,Electronics,North America,2,47.9
+ORD-10866,2025-10-24,Smart Watch,Electronics,Asia Pacific,2,387.56
+ORD-10867,2025-10-24,Bluetooth Speaker,Electronics,Asia Pacific,1,77.09
+ORD-10868,2025-10-24,Insulated Water Bottle,Outdoors,Asia Pacific,1,28.16
+ORD-10869,2025-10-24,Camping Hammock,Outdoors,North America,2,107.33
+ORD-10870,2025-10-24,Bluetooth Speaker,Electronics,North America,1,78.69
+ORD-10871,2025-10-25,Camping Hammock,Outdoors,North America,1,54.09
+ORD-10872,2025-10-25,Rain Jacket,Apparel,North America,1,138.48
+ORD-10873,2025-10-25,Chef's Knife,Home & Kitchen,Asia Pacific,2,174.6
+ORD-10874,2025-10-25,Insulated Water Bottle,Outdoors,Asia Pacific,2,57.2
+ORD-10875,2025-10-26,Chef's Knife,Home & Kitchen,Europe,1,88.04
+ORD-10876,2025-10-26,Wireless Earbuds,Electronics,North America,4,230.18
+ORD-10877,2025-10-26,Wireless Earbuds,Electronics,Europe,1,58.24
+ORD-10878,2025-10-27,Rain Jacket,Apparel,Europe,2,276.56
+ORD-10879,2025-10-27,Smart Watch,Electronics,Europe,1,198.58
+ORD-10880,2025-10-27,USB-C Charger,Electronics,Latin America,3,70.85
+ORD-10881,2025-10-27,Insulated Water Bottle,Outdoors,Europe,4,113.97
+ORD-10882,2025-10-28,Running Socks (3-pack),Apparel,Europe,2,35.82
+ORD-10883,2025-10-28,Smart Watch,Electronics,Latin America,1,197.36
+ORD-10884,2025-10-29,Chef's Knife,Home & Kitchen,North America,2,175.7
+ORD-10885,2025-10-29,Cookbook: Weeknight Meals,Books,Asia Pacific,2,55.29
+ORD-10886,2025-10-29,Camping Hammock,Outdoors,Europe,3,160.88
+ORD-10887,2025-10-29,USB-C Charger,Electronics,Europe,2,47.33
+ORD-10888,2025-10-30,Cookbook: Weeknight Meals,Books,Asia Pacific,1,27.69
+ORD-10889,2025-10-31,Running Socks (3-pack),Apparel,Europe,2,35.15
+ORD-10890,2025-11-01,USB-C Charger,Electronics,Europe,1,23.8
+ORD-10891,2025-11-01,Data Science Handbook,Books,Europe,5,190.92
+ORD-10892,2025-11-01,Chef's Knife,Home & Kitchen,North America,1,88.39
+ORD-10893,2025-11-01,Cookbook: Weeknight Meals,Books,Latin America,1,27.64
+ORD-10894,2025-11-01,Trail Backpack,Outdoors,North America,1,116.9
+ORD-10895,2025-11-01,Chef's Knife,Home & Kitchen,North America,3,259.73
+ORD-10896,2025-11-02,Chef's Knife,Home & Kitchen,Asia Pacific,2,176.89
+ORD-10897,2025-11-02,Wireless Earbuds,Electronics,Europe,1,58.52
+ORD-10898,2025-11-02,Trail Backpack,Outdoors,Asia Pacific,4,470.42
+ORD-10899,2025-11-03,Data Science Handbook,Books,Asia Pacific,1,38.59
+ORD-10900,2025-11-03,Trail Backpack,Outdoors,Europe,2,233.19
+ORD-10901,2025-11-03,Linen Throw Blanket,Home & Kitchen,Europe,1,64.03
+ORD-10902,2025-11-03,Wireless Earbuds,Electronics,Europe,5,294.74
+ORD-10903,2025-11-03,Rain Jacket,Apparel,Europe,1,137.02
+ORD-10904,2025-11-03,Chef's Knife,Home & Kitchen,North America,1,88.32
+ORD-10905,2025-11-04,Linen Throw Blanket,Home & Kitchen,North America,1,64.56
+ORD-10906,2025-11-04,Smart Watch,Electronics,Europe,1,195.39
+ORD-10907,2025-11-04,Camping Hammock,Outdoors,Europe,2,107.51
+ORD-10908,2025-11-04,USB-C Charger,Electronics,North America,4,93.38
+ORD-10909,2025-11-05,Linen Throw Blanket,Home & Kitchen,North America,2,129.1
+ORD-10910,2025-11-05,Bluetooth Speaker,Electronics,Europe,5,388.39
+ORD-10911,2025-11-05,Wireless Earbuds,Electronics,Latin America,1,58.44
+ORD-10912,2025-11-05,Wireless Earbuds,Electronics,North America,1,58.91
+ORD-10913,2025-11-06,Cookbook: Weeknight Meals,Books,North America,2,54.51
+ORD-10914,2025-11-06,Pour-Over Coffee Set,Home & Kitchen,North America,2,87.87
+ORD-10915,2025-11-06,Linen Throw Blanket,Home & Kitchen,Europe,2,129.97
+ORD-10916,2025-11-06,Camping Hammock,Outdoors,North America,2,108.89
+ORD-10917,2025-11-07,Bluetooth Speaker,Electronics,North America,2,153.3
+ORD-10918,2025-11-07,Linen Throw Blanket,Home & Kitchen,Europe,4,255.01
+ORD-10919,2025-11-07,Bluetooth Speaker,Electronics,Asia Pacific,2,154.36
+ORD-10920,2025-11-07,Pour-Over Coffee Set,Home & Kitchen,Latin America,1,44.46
+ORD-10921,2025-11-07,Smart Watch,Electronics,Europe,1,198.56
+ORD-10922,2025-11-08,Smart Watch,Electronics,Latin America,1,195.95
+ORD-10923,2025-11-08,Merino Hoodie,Apparel,North America,1,93.93
+ORD-10924,2025-11-08,Bluetooth Speaker,Electronics,Asia Pacific,2,157.42
+ORD-10925,2025-11-08,Merino Hoodie,Apparel,Latin America,4,371.17
+ORD-10926,2025-11-08,Ceramic Mug Set,Home & Kitchen,Europe,1,31.41
+ORD-10927,2025-11-08,Data Science Handbook,Books,Europe,2,76.66
+ORD-10928,2025-11-09,Chef's Knife,Home & Kitchen,North America,1,87.78
+ORD-10929,2025-11-09,Merino Hoodie,Apparel,North America,2,187.29
+ORD-10930,2025-11-09,Smart Watch,Electronics,Europe,2,387.95
+ORD-10931,2025-11-09,Wireless Earbuds,Electronics,North America,3,172.46
+ORD-10932,2025-11-09,Bluetooth Speaker,Electronics,Asia Pacific,1,77.6
+ORD-10933,2025-11-10,Linen Throw Blanket,Home & Kitchen,North America,1,63.31
+ORD-10934,2025-11-10,Bluetooth Speaker,Electronics,Europe,2,156.09
+ORD-10935,2025-11-10,Wireless Earbuds,Electronics,North America,2,116.15
+ORD-10936,2025-11-10,Ceramic Mug Set,Home & Kitchen,Asia Pacific,1,31.86
+ORD-10937,2025-11-10,Chef's Knife,Home & Kitchen,North America,1,87.42
+ORD-10938,2025-11-10,Cookbook: Weeknight Meals,Books,Latin America,1,27.72
+ORD-10939,2025-11-11,USB-C Charger,Electronics,Asia Pacific,1,23.51
+ORD-10940,2025-11-11,Chef's Knife,Home & Kitchen,Europe,2,175.91
+ORD-10941,2025-11-11,Rain Jacket,Apparel,North America,2,277.84
+ORD-10942,2025-11-11,Camping Hammock,Outdoors,Europe,2,106.83
+ORD-10943,2025-11-11,USB-C Charger,Electronics,Asia Pacific,1,24.0
+ORD-10944,2025-11-12,Ceramic Mug Set,Home & Kitchen,Latin America,1,31.41
+ORD-10945,2025-11-12,Merino Hoodie,Apparel,North America,1,94.67
+ORD-10946,2025-11-12,Running Socks (3-pack),Apparel,Europe,1,17.79
+ORD-10947,2025-11-12,Smart Watch,Electronics,Europe,2,387.14
+ORD-10948,2025-11-12,Chef's Knife,Home & Kitchen,Asia Pacific,4,352.75
+ORD-10949,2025-11-12,USB-C Charger,Electronics,North America,1,23.61
+ORD-10950,2025-11-13,Merino Hoodie,Apparel,North America,2,189.47
+ORD-10951,2025-11-13,Rain Jacket,Apparel,Asia Pacific,1,138.77
+ORD-10952,2025-11-13,Trail Backpack,Outdoors,Europe,1,119.25
+ORD-10953,2025-11-13,Chef's Knife,Home & Kitchen,North America,1,88.38
+ORD-10954,2025-11-13,Data Science Handbook,Books,North America,1,38.73
+ORD-10955,2025-11-13,Bluetooth Speaker,Electronics,North America,2,155.38
+ORD-10956,2025-11-13,Trail Backpack,Outdoors,Asia Pacific,5,582.06
+ORD-10957,2025-11-14,Merino Hoodie,Apparel,Europe,3,281.1
+ORD-10958,2025-11-14,USB-C Charger,Electronics,North America,2,47.25
+ORD-10959,2025-11-14,Pour-Over Coffee Set,Home & Kitchen,Europe,1,44.84
+ORD-10960,2025-11-15,Merino Hoodie,Apparel,North America,1,94.01
+ORD-10961,2025-11-15,Wireless Earbuds,Electronics,Europe,3,173.27
+ORD-10962,2025-11-15,Data Science Handbook,Books,North America,5,190.09
+ORD-10963,2025-11-15,Smart Watch,Electronics,Latin America,2,390.36
+ORD-10964,2025-11-15,Bluetooth Speaker,Electronics,North America,3,235.72
+ORD-10965,2025-11-15,Rain Jacket,Apparel,North America,1,136.31
+ORD-10966,2025-11-16,Running Socks (3-pack),Apparel,Europe,1,17.84
+ORD-10967,2025-11-16,Trail Backpack,Outdoors,Europe,5,591.52
+ORD-10968,2025-11-16,Bluetooth Speaker,Electronics,Europe,3,231.74
+ORD-10969,2025-11-16,Camping Hammock,Outdoors,North America,1,54.28
+ORD-10970,2025-11-16,Ceramic Mug Set,Home & Kitchen,Europe,1,31.63
+ORD-10971,2025-11-16,Trail Backpack,Outdoors,North America,1,118.65
+ORD-10972,2025-11-16,Smart Watch,Electronics,Asia Pacific,5,977.51
+ORD-10973,2025-11-16,Chef's Knife,Home & Kitchen,North America,1,87.08
+ORD-10974,2025-11-17,Linen Throw Blanket,Home & Kitchen,Asia Pacific,1,63.7
+ORD-10975,2025-11-17,Pour-Over Coffee Set,Home & Kitchen,Asia Pacific,1,44.78
+ORD-10976,2025-11-17,Cookbook: Weeknight Meals,Books,Latin America,2,55.4
+ORD-10977,2025-11-17,Ceramic Mug Set,Home & Kitchen,Asia Pacific,1,31.36
+ORD-10978,2025-11-17,Running Socks (3-pack),Apparel,Latin America,1,17.74
+ORD-10979,2025-11-18,Camping Hammock,Outdoors,North America,1,53.69
+ORD-10980,2025-11-18,Insulated Water Bottle,Outdoors,North America,1,28.86
+ORD-10981,2025-11-18,Ceramic Mug Set,Home & Kitchen,Europe,3,94.76
+ORD-10982,2025-11-18,Pour-Over Coffee Set,Home & Kitchen,Asia Pacific,2,89.2
+ORD-10983,2025-11-19,Ceramic Mug Set,Home & Kitchen,Asia Pacific,1,31.84
+ORD-10984,2025-11-19,Linen Throw Blanket,Home & Kitchen,North America,1,63.12
+ORD-10985,2025-11-19,Wireless Earbuds,Electronics,Europe,1,58.08
+ORD-10986,2025-11-19,Chef's Knife,Home & Kitchen,North America,1,88.66
+ORD-10987,2025-11-19,Linen Throw Blanket,Home & Kitchen,North America,3,193.96
+ORD-10988,2025-11-20,Data Science Handbook,Books,North America,1,38.28
+ORD-10989,2025-11-20,Merino Hoodie,Apparel,North America,4,376.43
+ORD-10990,2025-11-20,Trail Backpack,Outdoors,North America,3,350.31
+ORD-10991,2025-11-20,Rain Jacket,Apparel,North America,2,274.22
+ORD-10992,2025-11-20,Running Socks (3-pack),Apparel,North America,1,17.75
+ORD-10993,2025-11-21,Smart Watch,Electronics,North America,1,196.75
+ORD-10994,2025-11-21,Chef's Knife,Home & Kitchen,Europe,1,87.05
+ORD-10995,2025-11-21,Cookbook: Weeknight Meals,Books,Europe,1,27.42
+ORD-10996,2025-11-21,Rain Jacket,Apparel,Europe,1,137.78
+ORD-10997,2025-11-21,Trail Backpack,Outdoors,Europe,1,117.81
+ORD-10998,2025-11-22,Camping Hammock,Outdoors,Europe,2,108.17
+ORD-10999,2025-11-22,Linen Throw Blanket,Home & Kitchen,Asia Pacific,2,128.72
+ORD-11000,2025-11-22,Ceramic Mug Set,Home & Kitchen,Europe,1,31.81
+ORD-11001,2025-11-22,Trail Backpack,Outdoors,Europe,2,237.91
+ORD-11002,2025-11-23,Bluetooth Speaker,Electronics,Latin America,1,78.29
+ORD-11003,2025-11-23,Insulated Water Bottle,Outdoors,Europe,1,28.54
+ORD-11004,2025-11-23,Ceramic Mug Set,Home & Kitchen,Asia Pacific,1,31.37
+ORD-11005,2025-11-23,Camping Hammock,Outdoors,North America,3,163.99
+ORD-11006,2025-11-23,Pour-Over Coffee Set,Home & Kitchen,Asia Pacific,1,44.19
+ORD-11007,2025-11-24,Chef's Knife,Home & Kitchen,Europe,5,349.42
+ORD-11008,2025-11-24,Ceramic Mug Set,Home & Kitchen,Asia Pacific,1,25.44
+ORD-11009,2025-11-24,Chef's Knife,Home & Kitchen,North America,2,141.29
+ORD-11010,2025-11-24,Insulated Water Bottle,Outdoors,North America,2,45.46
+ORD-11011,2025-11-24,USB-C Charger,Electronics,North America,4,74.66
+ORD-11012,2025-11-25,Running Socks (3-pack),Apparel,North America,2,27.99
+ORD-11013,2025-11-25,Smart Watch,Electronics,Asia Pacific,4,629.85
+ORD-11014,2025-11-25,Smart Watch,Electronics,Europe,1,155.82
+ORD-11015,2025-11-25,Insulated Water Bottle,Outdoors,North America,2,45.45
+ORD-11016,2025-11-25,Camping Hammock,Outdoors,North America,4,173.02
+ORD-11017,2025-11-25,Cookbook: Weeknight Meals,Books,Latin America,2,44.28
+ORD-11018,2025-11-26,Chef's Knife,Home & Kitchen,Asia Pacific,1,70.99
+ORD-11019,2025-11-26,Data Science Handbook,Books,Asia Pacific,3,91.8
+ORD-11020,2025-11-26,Merino Hoodie,Apparel,North America,2,149.24
+ORD-11021,2025-11-26,Ceramic Mug Set,Home & Kitchen,Europe,1,24.99
+ORD-11022,2025-11-26,Smart Watch,Electronics,North America,1,158.84
+ORD-11023,2025-11-26,Merino Hoodie,Apparel,North America,3,222.02
+ORD-11024,2025-11-27,USB-C Charger,Electronics,Europe,5,93.51
+ORD-11025,2025-11-27,USB-C Charger,Electronics,Asia Pacific,3,57.07
+ORD-11026,2025-11-27,Data Science Handbook,Books,Europe,1,31.03
+ORD-11027,2025-11-27,Chef's Knife,Home & Kitchen,North America,2,140.6
+ORD-11028,2025-11-27,Merino Hoodie,Apparel,Asia Pacific,1,75.83
+ORD-11029,2025-11-27,Trail Backpack,Outdoors,Latin America,2,190.3
+ORD-11030,2025-11-27,USB-C Charger,Electronics,Latin America,1,19.04
+ORD-11031,2025-11-28,Linen Throw Blanket,Home & Kitchen,Europe,1,51.83
+ORD-11032,2025-11-28,USB-C Charger,Electronics,Europe,2,38.02
+ORD-11033,2025-11-28,Camping Hammock,Outdoors,Asia Pacific,1,42.75
+ORD-11034,2025-11-28,Pour-Over Coffee Set,Home & Kitchen,Europe,1,35.43
+ORD-11035,2025-11-28,Running Socks (3-pack),Apparel,North America,5,70.48
+ORD-11036,2025-11-28,Bluetooth Speaker,Electronics,Asia Pacific,2,122.84
+ORD-11037,2025-11-28,Chef's Knife,Home & Kitchen,Europe,2,139.37
+ORD-11038,2025-11-28,Merino Hoodie,Apparel,North America,1,74.87
+ORD-11039,2025-11-28,Running Socks (3-pack),Apparel,North America,2,28.17
+ORD-11040,2025-11-28,Wireless Earbuds,Electronics,Europe,4,187.32
+ORD-11041,2025-11-28,Insulated Water Bottle,Outdoors,Asia Pacific,1,22.99
+ORD-11042,2025-11-28,Pour-Over Coffee Set,Home & Kitchen,North America,1,35.08
+ORD-11043,2025-11-28,Data Science Handbook,Books,Asia Pacific,2,61.3
+ORD-11044,2025-11-28,Ceramic Mug Set,Home & Kitchen,Asia Pacific,1,25.28
+ORD-11045,2025-11-28,Merino Hoodie,Apparel,Europe,2,147.97
+ORD-11046,2025-11-29,Chef's Knife,Home & Kitchen,North America,2,140.16
+ORD-11047,2025-11-29,USB-C Charger,Electronics,North America,4,75.53
+ORD-11048,2025-11-29,Camping Hammock,Outdoors,Asia Pacific,1,43.89
+ORD-11049,2025-11-29,Insulated Water Bottle,Outdoors,Europe,2,45.39
+ORD-11050,2025-11-29,Wireless Earbuds,Electronics,North America,2,92.87
+ORD-11051,2025-11-29,Trail Backpack,Outdoors,Asia Pacific,2,187.36
+ORD-11052,2025-11-29,Chef's Knife,Home & Kitchen,North America,1,69.08
+ORD-11053,2025-11-30,USB-C Charger,Electronics,North America,1,18.88
+ORD-11054,2025-11-30,Bluetooth Speaker,Electronics,North America,1,62.48
+ORD-11055,2025-11-30,Smart Watch,Electronics,Latin America,2,315.61
+ORD-11056,2025-11-30,Smart Watch,Electronics,North America,2,315.04
+ORD-11057,2025-11-30,Merino Hoodie,Apparel,Asia Pacific,2,148.6
+ORD-11058,2025-11-30,Pour-Over Coffee Set,Home & Kitchen,Europe,4,140.87
+ORD-11059,2025-11-30,Linen Throw Blanket,Home & Kitchen,North America,2,101.75
+ORD-11060,2025-12-01,Cookbook: Weeknight Meals,Books,Latin America,1,27.53
+ORD-11061,2025-12-01,Chef's Knife,Home & Kitchen,Europe,1,87.64
+ORD-11062,2025-12-01,USB-C Charger,Electronics,North America,2,47.87
+ORD-11063,2025-12-01,Trail Backpack,Outdoors,North America,1,119.02
+ORD-11064,2025-12-01,Merino Hoodie,Apparel,Asia Pacific,1,93.97
+ORD-11065,2025-12-01,Cookbook: Weeknight Meals,Books,North America,2,55.84
+ORD-11066,2025-12-01,Camping Hammock,Outdoors,Asia Pacific,2,108.28
+ORD-11067,2025-12-01,Pour-Over Coffee Set,Home & Kitchen,Europe,1,44.94
+ORD-11068,2025-12-01,Running Socks (3-pack),Apparel,North America,1,18.0
+ORD-11069,2025-12-01,Linen Throw Blanket,Home & Kitchen,Europe,2,129.84
+ORD-11070,2025-12-01,Bluetooth Speaker,Electronics,North America,1,78.45
+ORD-11071,2025-12-01,Trail Backpack,Outdoors,Europe,5,593.89
+ORD-11072,2025-12-01,USB-C Charger,Electronics,Asia Pacific,2,47.08
+ORD-11073,2025-12-01,USB-C Charger,Electronics,Asia Pacific,1,23.42
+ORD-11074,2025-12-01,Camping Hammock,Outdoors,North America,1,54.66
+ORD-11075,2025-12-01,Insulated Water Bottle,Outdoors,Europe,3,85.56
+ORD-11076,2025-12-01,Data Science Handbook,Books,North America,1,38.67
+ORD-11077,2025-12-01,Chef's Knife,Home & Kitchen,Asia Pacific,2,175.11
+ORD-11078,2025-12-02,Camping Hammock,Outdoors,North America,2,109.75
+ORD-11079,2025-12-02,Smart Watch,Electronics,Europe,1,198.45
+ORD-11080,2025-12-02,Trail Backpack,Outdoors,Asia Pacific,1,117.02
+ORD-11081,2025-12-02,Bluetooth Speaker,Electronics,Asia Pacific,1,78.08
+ORD-11082,2025-12-02,Merino Hoodie,Apparel,Asia Pacific,1,93.57
+ORD-11083,2025-12-02,Merino Hoodie,Apparel,North America,1,93.11
+ORD-11084,2025-12-03,Pour-Over Coffee Set,Home & Kitchen,Latin America,2,87.67
+ORD-11085,2025-12-03,Merino Hoodie,Apparel,Asia Pacific,2,186.21
+ORD-11086,2025-12-03,Smart Watch,Electronics,Asia Pacific,1,195.24
+ORD-11087,2025-12-03,Smart Watch,Electronics,Latin America,1,193.63
+ORD-11088,2025-12-03,Rain Jacket,Apparel,North America,1,139.49
+ORD-11089,2025-12-03,Wireless Earbuds,Electronics,North America,1,58.38
+ORD-11090,2025-12-04,Running Socks (3-pack),Apparel,Asia Pacific,2,35.43
+ORD-11091,2025-12-04,Smart Watch,Electronics,Europe,1,195.49
+ORD-11092,2025-12-04,Data Science Handbook,Books,Europe,2,77.09
+ORD-11093,2025-12-04,Bluetooth Speaker,Electronics,North America,1,77.19
+ORD-11094,2025-12-05,Bluetooth Speaker,Electronics,Asia Pacific,5,389.16
+ORD-11095,2025-12-05,Chef's Knife,Home & Kitchen,North America,1,88.46
+ORD-11096,2025-12-05,Insulated Water Bottle,Outdoors,Europe,1,28.93
+ORD-11097,2025-12-05,Bluetooth Speaker,Electronics,North America,1,77.42
+ORD-11098,2025-12-05,Running Socks (3-pack),Apparel,North America,2,35.92
+ORD-11099,2025-12-05,Wireless Earbuds,Electronics,Europe,1,58.81
+ORD-11100,2025-12-05,Camping Hammock,Outdoors,Europe,1,54.58
+ORD-11101,2025-12-06,Merino Hoodie,Apparel,Asia Pacific,1,92.43
+ORD-11102,2025-12-06,Merino Hoodie,Apparel,North America,1,93.49
+ORD-11103,2025-12-06,Ceramic Mug Set,Home & Kitchen,North America,4,125.91
+ORD-11104,2025-12-06,Chef's Knife,Home & Kitchen,Europe,1,87.29
+ORD-11105,2025-12-06,Bluetooth Speaker,Electronics,North America,2,153.54
+ORD-11106,2025-12-06,USB-C Charger,Electronics,Europe,1,23.53
+ORD-11107,2025-12-06,Rain Jacket,Apparel,North America,2,279.6
+ORD-11108,2025-12-06,Data Science Handbook,Books,North America,3,115.21
+ORD-11109,2025-12-07,Running Socks (3-pack),Apparel,North America,1,17.93
+ORD-11110,2025-12-07,USB-C Charger,Electronics,Europe,3,71.12
+ORD-11111,2025-12-07,Wireless Earbuds,Electronics,Europe,1,58.98
+ORD-11112,2025-12-07,Rain Jacket,Apparel,North America,1,137.81
+ORD-11113,2025-12-07,Merino Hoodie,Apparel,Europe,1,93.74
+ORD-11114,2025-12-07,USB-C Charger,Electronics,Latin America,1,23.49
+ORD-11115,2025-12-07,Trail Backpack,Outdoors,North America,2,233.96
+ORD-11116,2025-12-07,Pour-Over Coffee Set,Home & Kitchen,Latin America,1,43.84
+ORD-11117,2025-12-07,Trail Backpack,Outdoors,Asia Pacific,1,118.07
+ORD-11118,2025-12-08,Camping Hammock,Outdoors,North America,3,161.7
+ORD-11119,2025-12-08,USB-C Charger,Electronics,Asia Pacific,2,47.44
+ORD-11120,2025-12-08,Trail Backpack,Outdoors,Asia Pacific,1,119.57
+ORD-11121,2025-12-08,Merino Hoodie,Apparel,Europe,4,372.75
+ORD-11122,2025-12-08,USB-C Charger,Electronics,North America,2,47.09
+ORD-11123,2025-12-09,Smart Watch,Electronics,North America,1,196.25
+ORD-11124,2025-12-09,Camping Hammock,Outdoors,Latin America,2,109.87
+ORD-11125,2025-12-09,Smart Watch,Electronics,North America,3,588.11
+ORD-11126,2025-12-09,Pour-Over Coffee Set,Home & Kitchen,North America,1,44.31
+ORD-11127,2025-12-09,Pour-Over Coffee Set,Home & Kitchen,Europe,1,44.76
+ORD-11128,2025-12-09,Running Socks (3-pack),Apparel,Europe,2,35.94
+ORD-11129,2025-12-10,Merino Hoodie,Apparel,North America,3,277.2
+ORD-11130,2025-12-10,Chef's Knife,Home & Kitchen,North America,4,346.49
+ORD-11131,2025-12-10,Smart Watch,Electronics,Europe,3,588.42
+ORD-11132,2025-12-10,Insulated Water Bottle,Outdoors,Europe,2,57.88
+ORD-11133,2025-12-10,Ceramic Mug Set,Home & Kitchen,Europe,2,62.64
+ORD-11134,2025-12-10,Smart Watch,Electronics,Asia Pacific,1,195.04
+ORD-11135,2025-12-10,Camping Hammock,Outdoors,Europe,1,54.33
+ORD-11136,2025-12-11,Linen Throw Blanket,Home & Kitchen,Europe,3,190.94
+ORD-11137,2025-12-11,Merino Hoodie,Apparel,Europe,5,471.72
+ORD-11138,2025-12-11,Bluetooth Speaker,Electronics,North America,4,312.38
+ORD-11139,2025-12-11,Bluetooth Speaker,Electronics,North America,1,78.31
+ORD-11140,2025-12-11,Data Science Handbook,Books,North America,1,38.99
+ORD-11141,2025-12-12,Insulated Water Bottle,Outdoors,North America,1,28.62
+ORD-11142,2025-12-12,Bluetooth Speaker,Electronics,Latin America,1,77.69
+ORD-11143,2025-12-12,Cookbook: Weeknight Meals,Books,North America,1,27.94
+ORD-11144,2025-12-13,Data Science Handbook,Books,North America,2,77.94
+ORD-11145,2025-12-13,Linen Throw Blanket,Home & Kitchen,Europe,1,64.89
+ORD-11146,2025-12-13,Data Science Handbook,Books,Asia Pacific,2,77.82
+ORD-11147,2025-12-13,Pour-Over Coffee Set,Home & Kitchen,Asia Pacific,4,175.35
+ORD-11148,2025-12-13,Insulated Water Bottle,Outdoors,North America,2,56.64
+ORD-11149,2025-12-13,Linen Throw Blanket,Home & Kitchen,North America,2,128.38
+ORD-11150,2025-12-13,Bluetooth Speaker,Electronics,North America,1,78.64
+ORD-11151,2025-12-14,Trail Backpack,Outdoors,Latin America,1,118.17
+ORD-11152,2025-12-14,Camping Hammock,Outdoors,Latin America,4,215.78
+ORD-11153,2025-12-14,USB-C Charger,Electronics,North America,1,23.48
+ORD-11154,2025-12-14,Ceramic Mug Set,Home & Kitchen,Asia Pacific,1,31.74
+ORD-11155,2025-12-15,Running Socks (3-pack),Apparel,North America,2,35.89
+ORD-11156,2025-12-15,Insulated Water Bottle,Outdoors,North America,2,56.41
+ORD-11157,2025-12-16,USB-C Charger,Electronics,Latin America,1,23.52
+ORD-11158,2025-12-16,Cookbook: Weeknight Meals,Books,North America,1,27.93
+ORD-11159,2025-12-16,Ceramic Mug Set,Home & Kitchen,Asia Pacific,2,62.34
+ORD-11160,2025-12-16,USB-C Charger,Electronics,North America,1,23.87
+ORD-11161,2025-12-16,Linen Throw Blanket,Home & Kitchen,Europe,2,126.98
+ORD-11162,2025-12-16,Merino Hoodie,Apparel,North America,4,378.11
+ORD-11163,2025-12-16,Linen Throw Blanket,Home & Kitchen,Europe,1,64.39
+ORD-11164,2025-12-17,Wireless Earbuds,Electronics,Europe,1,58.08
+ORD-11165,2025-12-17,Linen Throw Blanket,Home & Kitchen,Europe,1,64.4
+ORD-11166,2025-12-17,Wireless Earbuds,Electronics,Asia Pacific,1,57.33
+ORD-11167,2025-12-17,Chef's Knife,Home & Kitchen,North America,1,87.29
+ORD-11168,2025-12-17,Insulated Water Bottle,Outdoors,North America,1,28.69
+ORD-11169,2025-12-18,Smart Watch,Electronics,Asia Pacific,1,193.59
+ORD-11170,2025-12-18,Rain Jacket,Apparel,North America,1,139.35
+ORD-11171,2025-12-18,Running Socks (3-pack),Apparel,Asia Pacific,2,35.02
+ORD-11172,2025-12-18,Trail Backpack,Outdoors,North America,1,117.74
+ORD-11173,2025-12-18,Linen Throw Blanket,Home & Kitchen,Latin America,1,63.47
+ORD-11174,2025-12-18,Chef's Knife,Home & Kitchen,Asia Pacific,2,176.34
+ORD-11175,2025-12-19,Camping Hammock,Outdoors,Asia Pacific,1,54.11
+ORD-11176,2025-12-19,Smart Watch,Electronics,Latin America,1,194.89
+ORD-11177,2025-12-19,Ceramic Mug Set,Home & Kitchen,Asia Pacific,2,63.55
+ORD-11178,2025-12-19,Linen Throw Blanket,Home & Kitchen,North America,3,190.45
+ORD-11179,2025-12-19,Merino Hoodie,Apparel,Asia Pacific,1,92.75
+ORD-11180,2025-12-19,Cookbook: Weeknight Meals,Books,Asia Pacific,2,54.45
+ORD-11181,2025-12-19,Running Socks (3-pack),Apparel,North America,1,17.89
+ORD-11182,2025-12-19,Pour-Over Coffee Set,Home & Kitchen,Europe,4,174.83
+ORD-11183,2025-12-20,Pour-Over Coffee Set,Home & Kitchen,Asia Pacific,2,89.78
+ORD-11184,2025-12-20,Smart Watch,Electronics,North America,1,193.57
+ORD-11185,2025-12-20,Running Socks (3-pack),Apparel,Latin America,1,17.55
+ORD-11186,2025-12-20,Chef's Knife,Home & Kitchen,Europe,1,88.52
+ORD-11187,2025-12-20,Rain Jacket,Apparel,North America,1,136.98
+ORD-11188,2025-12-20,Data Science Handbook,Books,Latin America,1,38.08
+ORD-11189,2025-12-21,Chef's Knife,Home & Kitchen,Europe,4,347.25
+ORD-11190,2025-12-21,Ceramic Mug Set,Home & Kitchen,Europe,1,31.43
+ORD-11191,2025-12-21,Running Socks (3-pack),Apparel,North America,1,17.53
+ORD-11192,2025-12-21,Rain Jacket,Apparel,North America,2,272.29
+ORD-11193,2025-12-21,Ceramic Mug Set,Home & Kitchen,North America,2,62.68
+ORD-11194,2025-12-22,Cookbook: Weeknight Meals,Books,North America,1,27.99
+ORD-11195,2025-12-22,Pour-Over Coffee Set,Home & Kitchen,Asia Pacific,3,134.75
+ORD-11196,2025-12-22,Pour-Over Coffee Set,Home & Kitchen,Latin America,1,43.79
+ORD-11197,2025-12-22,Pour-Over Coffee Set,Home & Kitchen,North America,1,44.59
+ORD-11198,2025-12-22,Data Science Handbook,Books,North America,5,191.13
+ORD-11199,2025-12-23,USB-C Charger,Electronics,Asia Pacific,1,23.79
+ORD-11200,2025-12-23,Insulated Water Bottle,Outdoors,Asia Pacific,3,86.85
+ORD-11201,2025-12-24,Ceramic Mug Set,Home & Kitchen,Latin America,1,31.18
+ORD-11202,2025-12-24,Pour-Over Coffee Set,Home & Kitchen,North America,1,44.5
+ORD-11203,2025-12-24,Wireless Earbuds,Electronics,Asia Pacific,3,174.34
+ORD-11204,2025-12-25,Insulated Water Bottle,Outdoors,North America,2,56.43
+ORD-11205,2025-12-25,USB-C Charger,Electronics,Asia Pacific,1,23.76
+ORD-11206,2025-12-25,Linen Throw Blanket,Home & Kitchen,Europe,3,192.31
+ORD-11207,2025-12-25,Wireless Earbuds,Electronics,Latin America,3,172.32
+ORD-11208,2025-12-25,Ceramic Mug Set,Home & Kitchen,Europe,1,31.21
+ORD-11209,2025-12-25,Insulated Water Bottle,Outdoors,Asia Pacific,1,28.5
+ORD-11210,2025-12-26,Ceramic Mug Set,Home & Kitchen,Europe,1,31.69
+ORD-11211,2025-12-26,Camping Hammock,Outdoors,Europe,1,54.28
+ORD-11212,2025-12-26,Wireless Earbuds,Electronics,Europe,1,58.95
+ORD-11213,2025-12-26,Insulated Water Bottle,Outdoors,Asia Pacific,1,28.18
+ORD-11214,2025-12-26,Trail Backpack,Outdoors,Asia Pacific,1,119.07
+ORD-11215,2025-12-26,Bluetooth Speaker,Electronics,Europe,1,78.98
+ORD-11216,2025-12-27,Smart Watch,Electronics,Europe,2,396.93
+ORD-11217,2025-12-27,Bluetooth Speaker,Electronics,North America,1,77.91
+ORD-11218,2025-12-27,USB-C Charger,Electronics,Europe,4,93.89
+ORD-11219,2025-12-27,Camping Hammock,Outdoors,North America,1,54.29
+ORD-11220,2025-12-27,Pour-Over Coffee Set,Home & Kitchen,Asia Pacific,1,44.56
+ORD-11221,2025-12-27,Linen Throw Blanket,Home & Kitchen,North America,1,64.94
+ORD-11222,2025-12-27,Wireless Earbuds,Electronics,Asia Pacific,1,57.74
+ORD-11223,2025-12-28,USB-C Charger,Electronics,Asia Pacific,2,47.94
+ORD-11224,2025-12-28,Camping Hammock,Outdoors,North America,1,53.46
+ORD-11225,2025-12-28,Running Socks (3-pack),Apparel,Europe,1,17.5
+ORD-11226,2025-12-28,Rain Jacket,Apparel,Asia Pacific,1,138.07
+ORD-11227,2025-12-28,USB-C Charger,Electronics,North America,1,23.76
+ORD-11228,2025-12-28,Pour-Over Coffee Set,Home & Kitchen,Europe,1,43.9
+ORD-11229,2025-12-28,Ceramic Mug Set,Home & Kitchen,North America,2,63.63
+ORD-11230,2025-12-29,Data Science Handbook,Books,Europe,1,38.0
+ORD-11231,2025-12-29,Bluetooth Speaker,Electronics,Asia Pacific,1,78.67
+ORD-11232,2025-12-29,Data Science Handbook,Books,Asia Pacific,1,38.17
+ORD-11233,2025-12-29,Smart Watch,Electronics,Europe,1,194.18
+ORD-11234,2025-12-29,Bluetooth Speaker,Electronics,Europe,2,155.33
+ORD-11235,2025-12-29,Trail Backpack,Outdoors,North America,1,116.5
+ORD-11236,2025-12-29,Running Socks (3-pack),Apparel,Europe,1,17.92
+ORD-11237,2025-12-30,Cookbook: Weeknight Meals,Books,Asia Pacific,1,27.91
+ORD-11238,2025-12-30,Linen Throw Blanket,Home & Kitchen,Asia Pacific,4,255.37
+ORD-11239,2025-12-30,Pour-Over Coffee Set,Home & Kitchen,Europe,3,134.36
+ORD-11240,2025-12-31,Pour-Over Coffee Set,Home & Kitchen,Europe,3,134.8
+ORD-11241,2025-12-31,Cookbook: Weeknight Meals,Books,Europe,1,27.66
+ORD-11242,2025-12-31,Running Socks (3-pack),Apparel,North America,2,35.34
+ORD-11243,2025-12-31,Merino Hoodie,Apparel,Latin America,1,92.45
+ORD-11244,2025-12-31,Bluetooth Speaker,Electronics,Europe,1,78.03
+ORD-11245,2025-12-31,Linen Throw Blanket,Home & Kitchen,Asia Pacific,1,64.11
