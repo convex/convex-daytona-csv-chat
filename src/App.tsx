@@ -4,7 +4,7 @@ import { Chat } from "./Chat";
 import { getSessionId, useStoredState } from "./session";
 import { Upload } from "./Upload";
 
-const REPO_URL = "https://github.com/get-convex/convex-daytona-csv-chat";
+const REPO_URL = "https://github.com/convex/convex-daytona-csv-chat";
 const sessionId = getSessionId();
 
 export default function App() {
@@ -34,7 +34,7 @@ export default function App() {
       <footer className="footer">
         Public demo. Everything resets every 12 hours. Run your own:{" "}
         <a href={REPO_URL} target="_blank" rel="noreferrer">
-          github.com/get-convex/convex-daytona-csv-chat
+          github.com/convex/convex-daytona-csv-chat
         </a>
       </footer>
     </div>

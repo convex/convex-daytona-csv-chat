@@ -24,7 +24,7 @@ Convex then does what it's good at:
 ## Run your own
 
 ```bash
-git clone https://github.com/get-convex/convex-daytona-csv-chat
+git clone https://github.com/convex/convex-daytona-csv-chat
 cd convex-daytona-csv-chat
 npm install
 npx convex dev            # creates a Convex project, then leave it running (or Ctrl+C)
@@ -41,7 +41,7 @@ import { openai } from "@ai-sdk/openai"; // instead of convexGateway
 model: openai("gpt-5.4"),                // instead of convexGateway(MODEL)
 ```
 
-To host the frontend on Convex too (it's served from `https://<deployment>.convex.site` by [`@convex-dev/static-hosting`](https://github.com/get-convex/static-hosting)): `npm run deploy`.
+To host the frontend on Convex too (it's served from `https://<deployment>.convex.site` by [`@convex-dev/static-hosting`](https://github.com/convex/static-hosting)): `npm run deploy`.
 
 ## How it works
 
